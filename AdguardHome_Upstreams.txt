@@ -7,6 +7,12 @@ tcp://223.5.5.5
 tcp://119.29.29.29
 
 
+
+
+
+
+
+
 #Dnsmasq-china-list
 [/0-100.com/]tcp://223.5.5.5
 [/0-6.com/]tcp://223.5.5.5
@@ -67826,6 +67832,21 @@ tcp://119.29.29.29
 [/www.apple.com.edgekey.net.globalredir.akadns.net/]tcp://223.5.5.5
 [/www.apple.com.edgekey.net/]tcp://223.5.5.5
 [/www.apple.com/]tcp://223.5.5.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
