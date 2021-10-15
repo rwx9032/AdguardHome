@@ -3,8 +3,9 @@ https://dns-family.adguard.com/dns-query
 https://doh.dns.sb/dns-query
 https://doh.familyshield.opendns.com/dns-query
 https://dns.quad9.net/dns-query
-tcp://223.6.6.6
-tcp://119.29.29.29
+https://1145141919810.rubyfish.cn/dns-query
+#tcp://223.6.6.6
+#tcp://119.29.29.29
 
 
 
