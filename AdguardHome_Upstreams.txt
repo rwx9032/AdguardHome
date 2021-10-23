@@ -73902,3 +73902,8 @@ https://1145141919810.rubyfish.cn/dns-query
 [/zzcartoon.com/]tls://1.1.1.1
 [/zzcloud.me/]tls://1.1.1.1
 [/zzux.com/]tls://1.1.1.1
+[/tk/]tcp://80.80.80.80
+[/cf/]tcp://80.80.80.80
+[/ml/]tcp://80.80.80.80
+[/ga/]tcp://80.80.80.80
+[/gq/]tcp://80.80.80.80
