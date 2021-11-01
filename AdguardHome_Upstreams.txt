@@ -4,7 +4,7 @@ https://doh.dns.sb/dns-query
 https://doh.familyshield.opendns.com/dns-query
 https://dns.quad9.net/dns-query
 https://1145141919810.rubyfish.cn/dns-query
-#tcp://223.6.6.6
+tcp://223.6.6.6:853
 #tcp://119.29.29.29
 
 
