@@ -1,0 +1,30 @@
+name: Autoupdate
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout actions
+      uses: actions/checkout@v1
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Update paper list
+      run: |
+        cd ./AutoUpdate
+        wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
+        python ChinaDomainlist_AutoUpdate.py	
+    - name: commit
+      run: |
+        git config --global user.email rwx9032@gmail.com
+        git config --global user.name rwx9032
+        git add .
+        git commit -m "update" -a -f
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+
