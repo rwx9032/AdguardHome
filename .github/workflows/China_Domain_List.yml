@@ -15,6 +15,7 @@ jobs:
     - name: Update paper list
       run: |
         cd ./AutoUpdate
+        rm -f accelerated-domains.china.conf
         wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
         python ChinaDomainlist_AutoUpdate.py	
     - name: commit
