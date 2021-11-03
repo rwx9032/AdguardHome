@@ -22,7 +22,7 @@ jobs:
         git config --global user.email rwx9032@gmail.com
         git config --global user.name rwx9032
         git add .
-        git commit -m "update" -a -f
+        git commit -m "autoupdate" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
