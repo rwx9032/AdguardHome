@@ -6,7 +6,7 @@
 
 默认账号root密码password记得更改
 
-#特别感谢
+# 特别感谢
 
 国内域名列表取自 felixonmars/dnsmasq-china-list
 
