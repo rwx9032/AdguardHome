@@ -4,7 +4,7 @@
 
 也可以直接复制 AdGuardHome.yaml 到手动设置里面
 
-默认账号root密码password记得更改
+默认配置账号root密码password记得更改
 
 # 特别感谢
 
