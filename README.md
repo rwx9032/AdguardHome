@@ -2,7 +2,9 @@
 
 可直接在配置文件的 upstream_dns_file 中指定文件
 
-也可以直接复制 AdGuardHome.yaml 到手动设置里面
+也可以直接复制懒人配置 AdGuardHome.yaml 到手动设置里面
+
+然后wget AdguardHome_Upstreams.txt 到 /root 里面（一般就是ssh连上的默认的位置
 
 默认配置账号root密码password记得更改
 
