@@ -18,11 +18,11 @@ dns:
   statistics_interval: 1
   querylog_enabled: true
   querylog_file_enabled: true
-  querylog_interval: 90
+  querylog_interval: 1
   querylog_size_memory: 1000
   anonymize_client_ip: false
   protection_enabled: true
-  blocking_mode: default
+  blocking_mode: nxdomain
   blocking_ipv4: ""
   blocking_ipv6: ""
   blocked_response_ttl: 10
@@ -36,7 +36,7 @@ dns:
   upstream_dns_file: /root/AdguardHome_Upstreams.txt
   bootstrap_dns:
   - tls://223.5.5.5
-  all_servers: false
+  all_servers: true
   fastest_addr: false
   allowed_clients: []
   disallowed_clients: []
