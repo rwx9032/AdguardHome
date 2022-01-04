@@ -3144,6 +3144,7 @@
 [/360tpcdn.com]tcp://223.6.6.6
 [/360u9.com]tcp://223.6.6.6
 [/360uu.com]tcp://223.6.6.6
+[/360vcloud.com]tcp://223.6.6.6
 [/360vipshop.com]tcp://223.6.6.6
 [/360vps.com]tcp://223.6.6.6
 [/360vrzy.com]tcp://223.6.6.6
@@ -3501,7 +3502,6 @@
 [/3dxy.com]tcp://223.6.6.6
 [/3dzyw.com]tcp://223.6.6.6
 [/3e.net]tcp://223.6.6.6
-[/3edy.com]tcp://223.6.6.6
 [/3eyes.org]tcp://223.6.6.6
 [/3fang.com]tcp://223.6.6.6
 [/3fantizi.com]tcp://223.6.6.6
@@ -13763,6 +13763,7 @@
 [/cdfcn.com]tcp://223.6.6.6
 [/cdfgsanya.com]tcp://223.6.6.6
 [/cdfinger.com]tcp://223.6.6.6
+[/cdfmembers.com]tcp://223.6.6.6
 [/cdfortis.com]tcp://223.6.6.6
 [/cdfytx.com]tcp://223.6.6.6
 [/cdgdad.com]tcp://223.6.6.6
@@ -47619,7 +47620,6 @@
 [/rockyaero.com]tcp://223.6.6.6
 [/rockyenglish.com]tcp://223.6.6.6
 [/roclee.com]tcp://223.6.6.6
-[/rocsf.org]tcp://223.6.6.6
 [/roddypy.com]tcp://223.6.6.6
 [/roffar.com]tcp://223.6.6.6
 [/rohm-chip.com]tcp://223.6.6.6
@@ -54254,6 +54254,7 @@
 [/tospur.com]tcp://223.6.6.6
 [/tot.name]tcp://223.6.6.6
 [/totalacg.com]tcp://223.6.6.6
+[/totoro.pub]tcp://223.6.6.6
 [/tou360.com]tcp://223.6.6.6
 [/tou70.com]tcp://223.6.6.6
 [/toubang.tv]tcp://223.6.6.6
@@ -59261,6 +59262,7 @@
 [/wuzhicms.com]tcp://223.6.6.6
 [/wuzhiwei.net]tcp://223.6.6.6
 [/wuzhouqianzheng.com]tcp://223.6.6.6
+[/wuzhuiso.com]tcp://223.6.6.6
 [/wuziya.com]tcp://223.6.6.6
 [/wuzongping.com]tcp://223.6.6.6
 [/wvshare.com]tcp://223.6.6.6
@@ -62070,7 +62072,6 @@
 [/xyqb.com]tcp://223.6.6.6
 [/xyqczy.com]tcp://223.6.6.6
 [/xyqka.com]tcp://223.6.6.6
-[/xyrdip.com]tcp://223.6.6.6
 [/xyrtv.com]tcp://223.6.6.6
 [/xysb.com]tcp://223.6.6.6
 [/xyshu8.com]tcp://223.6.6.6
@@ -62667,6 +62668,7 @@
 [/yeree.com]tcp://223.6.6.6
 [/yerhu.com]tcp://223.6.6.6
 [/yes-chinese.com]tcp://223.6.6.6
+[/yes-med.net]tcp://223.6.6.6
 [/yes515.com]tcp://223.6.6.6
 [/yes58.net]tcp://223.6.6.6
 [/yes88.com]tcp://223.6.6.6
@@ -64224,7 +64226,6 @@
 [/yscb.net]tcp://223.6.6.6
 [/ysch.cc]tcp://223.6.6.6
 [/yscq.com]tcp://223.6.6.6
-[/ysdq.info]tcp://223.6.6.6
 [/ysdui.com]tcp://223.6.6.6
 [/yse360.cc]tcp://223.6.6.6
 [/ysedu.com]tcp://223.6.6.6
