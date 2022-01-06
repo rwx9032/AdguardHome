@@ -5557,7 +5557,6 @@
 [/6122.net]tcp://223.6.6.6
 [/612345.com]tcp://223.6.6.6
 [/612459.com]tcp://223.6.6.6
-[/6132071.com]tcp://223.6.6.6
 [/6132823.com]tcp://223.6.6.6
 [/6132979.com]tcp://223.6.6.6
 [/6137.net]tcp://223.6.6.6
@@ -8424,7 +8423,6 @@
 [/aidrive.com]tcp://223.6.6.6
 [/aiduoka.com]tcp://223.6.6.6
 [/aiduwenxue.com]tcp://223.6.6.6
-[/aidzs.com]tcp://223.6.6.6
 [/aiec-alliance.com]tcp://223.6.6.6
 [/aiegle.com]tcp://223.6.6.6
 [/aiemy.com]tcp://223.6.6.6
@@ -13225,6 +13223,7 @@
 [/callda.com]tcp://223.6.6.6
 [/callmewhy.com]tcp://223.6.6.6
 [/caloinfo.com]tcp://223.6.6.6
+[/calorietech.com]tcp://223.6.6.6
 [/calt.com]tcp://223.6.6.6
 [/calvinneo.com]tcp://223.6.6.6
 [/cambm.com]tcp://223.6.6.6
@@ -18951,6 +18950,7 @@
 [/dedezhuji.com]tcp://223.6.6.6
 [/deehai.com]tcp://223.6.6.6
 [/deemob.com]tcp://223.6.6.6
+[/deemos.com]tcp://223.6.6.6
 [/deepai.com]tcp://223.6.6.6
 [/deepano.com]tcp://223.6.6.6
 [/deepaso.com]tcp://223.6.6.6
@@ -33017,6 +33017,7 @@
 [/jiatingdog.com]tcp://223.6.6.6
 [/jiatui.com]tcp://223.6.6.6
 [/jiatx.com]tcp://223.6.6.6
+[/jiawentrans.com]tcp://223.6.6.6
 [/jiawin.com]tcp://223.6.6.6
 [/jiaxiaozhijia.com]tcp://223.6.6.6
 [/jiaxichina.net]tcp://223.6.6.6
@@ -40114,6 +40115,7 @@
 [/menle.com]tcp://223.6.6.6
 [/menpiao.com]tcp://223.6.6.6
 [/menqiu.com]tcp://223.6.6.6
+[/menubarx.app]tcp://223.6.6.6
 [/menwee.com]tcp://223.6.6.6
 [/menww.com]tcp://223.6.6.6
 [/menwww.com]tcp://223.6.6.6
@@ -40567,6 +40569,7 @@
 [/minhangshi.com]tcp://223.6.6.6
 [/minhow.com]tcp://223.6.6.6
 [/mini-audio.com]tcp://223.6.6.6
+[/mini-program.net]tcp://223.6.6.6
 [/mini5cn-1.opera-mini.net]tcp://223.6.6.6
 [/mini5cn.opera-mini.net]tcp://223.6.6.6
 [/miniadx.com]tcp://223.6.6.6
@@ -44188,6 +44191,7 @@
 [/pdfdo.com]tcp://223.6.6.6
 [/pdfdowell.com]tcp://223.6.6.6
 [/pdfexpert.cc]tcp://223.6.6.6
+[/pdffsy.com]tcp://223.6.6.6
 [/pdffx.com]tcp://223.6.6.6
 [/pdfjia.com]tcp://223.6.6.6
 [/pdflibr.com]tcp://223.6.6.6
@@ -47945,7 +47949,6 @@
 [/ruvar.com]tcp://223.6.6.6
 [/ruvisas.com]tcp://223.6.6.6
 [/ruwen5.com]tcp://223.6.6.6
-[/ruxianke.com]tcp://223.6.6.6
 [/ruyahui.com]tcp://223.6.6.6
 [/ruyig.com]tcp://223.6.6.6
 [/ruyile.com]tcp://223.6.6.6
@@ -52704,6 +52707,7 @@
 [/talkwithtrend.com]tcp://223.6.6.6
 [/talkyun.com]tcp://223.6.6.6
 [/taluo.com]tcp://223.6.6.6
+[/talyscm.com]tcp://223.6.6.6
 [/talzjsj.com]tcp://223.6.6.6
 [/tamaegis.com]tcp://223.6.6.6
 [/tamc8.com]tcp://223.6.6.6
@@ -54249,6 +54253,7 @@
 [/touchxd.com]tcp://223.6.6.6
 [/touclick.com]tcp://223.6.6.6
 [/touduyu.com]tcp://223.6.6.6
+[/toufu321.com]tcp://223.6.6.6
 [/toughcoder.net]tcp://223.6.6.6
 [/tougub.com]tcp://223.6.6.6
 [/touhou.cd]tcp://223.6.6.6
@@ -65681,6 +65686,7 @@
 [/zgtuku.com]tcp://223.6.6.6
 [/zgtxw.com]tcp://223.6.6.6
 [/zgtygg.com]tcp://223.6.6.6
+[/zgtzhb.com]tcp://223.6.6.6
 [/zgui.com]tcp://223.6.6.6
 [/zguonew.com]tcp://223.6.6.6
 [/zgw.com]tcp://223.6.6.6
