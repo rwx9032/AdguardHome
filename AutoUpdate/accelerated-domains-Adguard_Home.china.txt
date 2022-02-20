@@ -1419,7 +1419,6 @@
 [/15w.com]tcp://223.6.6.6
 [/15wz.com]tcp://223.6.6.6
 [/15xdd.com]tcp://223.6.6.6
-[/15xs.com]tcp://223.6.6.6
 [/15yan.com]tcp://223.6.6.6
 [/15yc.com]tcp://223.6.6.6
 [/15yl.com]tcp://223.6.6.6
@@ -2141,6 +2140,7 @@
 [/204u.com]tcp://223.6.6.6
 [/205.com]tcp://223.6.6.6
 [/206dy.com]tcp://223.6.6.6
+[/2080ly.com]tcp://223.6.6.6
 [/2088062.com]tcp://223.6.6.6
 [/2088063.com]tcp://223.6.6.6
 [/208xs.com]tcp://223.6.6.6
@@ -10021,7 +10021,7 @@
 [/awtmt.com]tcp://223.6.6.6
 [/awuming.com]tcp://223.6.6.6
 [/awx1.com]tcp://223.6.6.6
-[/ax1x.com]tcp://223.6.6.6
+#[/ax1x.com]tcp://223.6.6.6 # Disabled: https://github.com/felixonmars/dnsmasq-china-list/issues/391
 [/ax2nc4.ren]tcp://223.6.6.6
 [/ax630.com]tcp://223.6.6.6
 [/axatp.com]tcp://223.6.6.6
@@ -11138,6 +11138,7 @@
 [/bestbaijiu.com]tcp://223.6.6.6
 [/bestbeibao.com]tcp://223.6.6.6
 [/bestcake.com]tcp://223.6.6.6
+[/bestcdn.vip]tcp://223.6.6.6
 [/bestcem.com]tcp://223.6.6.6
 [/bestdjb.com]tcp://223.6.6.6
 [/bestdo.com]tcp://223.6.6.6
@@ -13345,7 +13346,6 @@
 [/cbi360.net]tcp://223.6.6.6
 [/cbi88.com]tcp://223.6.6.6
 [/cbice.com]tcp://223.6.6.6
-[/cbide.com]tcp://223.6.6.6
 [/cbiec.com]tcp://223.6.6.6
 [/cbiec.net]tcp://223.6.6.6
 [/cbismb.com]tcp://223.6.6.6
@@ -16521,7 +16521,6 @@
 [/cnmo.com]tcp://223.6.6.6
 [/cnmobile.net]tcp://223.6.6.6
 [/cnmods.org]tcp://223.6.6.6
-[/cnmoi.org]tcp://223.6.6.6
 [/cnmsl.net]tcp://223.6.6.6
 [/cnmsn.net]tcp://223.6.6.6
 [/cnmstl.net]tcp://223.6.6.6
@@ -17356,6 +17355,7 @@
 [/cr6868.com]tcp://223.6.6.6
 [/crabchina.com]tcp://223.6.6.6
 [/crackersta.com]tcp://223.6.6.6
+[/gateway.craft.moe]tcp://223.6.6.6
 [/craftcontact.com]tcp://223.6.6.6
 [/crandom.com]tcp://223.6.6.6
 [/crazepony.com]tcp://223.6.6.6
@@ -17500,6 +17500,7 @@
 [/csharpkit.com]tcp://223.6.6.6
 [/cshixi.com]tcp://223.6.6.6
 [/cshnkj.com]tcp://223.6.6.6
+[/cshope.net]tcp://223.6.6.6
 [/cshu360.com]tcp://223.6.6.6
 [/cshxdc.com]tcp://223.6.6.6
 [/cshzw.com]tcp://223.6.6.6
@@ -19742,6 +19743,7 @@
 [/dnsabc-g.com]tcp://223.6.6.6
 [/dnsapple.com]tcp://223.6.6.6
 [/dnsapple.net]tcp://223.6.6.6
+[/dnsce.com]tcp://223.6.6.6
 [/dnscnc.com]tcp://223.6.6.6
 [/dnsddos.com]tcp://223.6.6.6
 [/dnsdiy.com]tcp://223.6.6.6
@@ -27189,6 +27191,7 @@
 [/hbseo.com]tcp://223.6.6.6
 [/hbsfgk.org]tcp://223.6.6.6
 [/hbshbsh.com]tcp://223.6.6.6
+[/hbshengbangwl.com]tcp://223.6.6.6
 [/hbshgzx.com]tcp://223.6.6.6
 [/hbshls.com]tcp://223.6.6.6
 [/hbsia.org]tcp://223.6.6.6
@@ -27339,7 +27342,6 @@
 [/hdingsheng.com]tcp://223.6.6.6
 [/hdj.me]tcp://223.6.6.6
 [/hdjay.com]tcp://223.6.6.6
-[/hdjr.org]tcp://223.6.6.6
 [/hdjwww.com]tcp://223.6.6.6
 [/hdlcdns.com]tcp://223.6.6.6
 [/hdlchina.com]tcp://223.6.6.6
@@ -36102,6 +36104,7 @@
 [/kxyike.com]tcp://223.6.6.6
 [/kxzmw.com]tcp://223.6.6.6
 [/ky-express.com]tcp://223.6.6.6
+[/ky5yx.com]tcp://223.6.6.6
 [/ky958.com]tcp://223.6.6.6
 [/kybapp.com]tcp://223.6.6.6
 [/kybapp.net]tcp://223.6.6.6
@@ -40363,6 +40366,7 @@
 [/miraclevision.net]tcp://223.6.6.6
 [/mirari.cc]tcp://223.6.6.6
 [/mirgaga.net]tcp://223.6.6.6
+[/mirmzhy.com]tcp://223.6.6.6
 [/mirxat.com]tcp://223.6.6.6
 [/misaka.center]tcp://223.6.6.6
 [/misall.com]tcp://223.6.6.6
@@ -43250,7 +43254,6 @@
 [/optaim.com]tcp://223.6.6.6
 [/optbbs.com]tcp://223.6.6.6
 [/opticsjournal.net]tcp://223.6.6.6
-[/opticsx.org]tcp://223.6.6.6
 [/optimix.asia]tcp://223.6.6.6
 [/optimized-ai.com]tcp://223.6.6.6
 [/optinetchina.com]tcp://223.6.6.6
@@ -52788,6 +52791,7 @@
 [/tdnsv6.com]tcp://223.6.6.6
 [/tdnsv8.com]tcp://223.6.6.6
 [/tdpress.com]tcp://223.6.6.6
+[/tdun.com]tcp://223.6.6.6
 [/tduou.com]tcp://223.6.6.6
 [/tdyxmoto.com]tcp://223.6.6.6
 [/tdzyw.com]tcp://223.6.6.6
@@ -61171,7 +61175,6 @@
 [/xshengyan.com]tcp://223.6.6.6
 [/xshenshu.com]tcp://223.6.6.6
 [/xshkvip.com]tcp://223.6.6.6
-[/xshouyi.com]tcp://223.6.6.6
 [/xshrcw.com]tcp://223.6.6.6
 [/xshulin.com]tcp://223.6.6.6
 [/xshuma.com]tcp://223.6.6.6
