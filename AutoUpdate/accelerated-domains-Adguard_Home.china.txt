@@ -20250,6 +20250,7 @@
 [/drlmeng.com]tcp://223.6.6.6
 [/drm-x.com]tcp://223.6.6.6
 [/drm-x.net]tcp://223.6.6.6
+[/drmaml.com]tcp://223.6.6.6
 [/drmj.org]tcp://223.6.6.6
 [/droi.com]tcp://223.6.6.6
 [/droibaas.com]tcp://223.6.6.6
@@ -34736,6 +34737,7 @@
 [/kaixin5.net]tcp://223.6.6.6
 [/kaixinbao.com]tcp://223.6.6.6
 [/kaixindou.net]tcp://223.6.6.6
+[/kaixinguopiao.com]tcp://223.6.6.6
 [/kaixinguopiaowu.net]tcp://223.6.6.6
 [/kaixinhui.com]tcp://223.6.6.6
 [/kaixinhui.net]tcp://223.6.6.6
@@ -42615,6 +42617,7 @@
 [/ntfabu.com]tcp://223.6.6.6
 [/ntfsformac.cc]tcp://223.6.6.6
 [/nthfw.com]tcp://223.6.6.6
+[/nthysp.com]tcp://223.6.6.6
 [/ntjoy.com]tcp://223.6.6.6
 [/ntjrchina.com]tcp://223.6.6.6
 [/ntjymall.com]tcp://223.6.6.6
@@ -64117,6 +64120,7 @@
 [/yueyuzhushou.com]tcp://223.6.6.6
 [/yueyv.com]tcp://223.6.6.6
 [/yuez.me]tcp://223.6.6.6
+[/yufeitongji.com]tcp://223.6.6.6
 [/yufengyangfan.com]tcp://223.6.6.6
 [/yufu365.com]tcp://223.6.6.6
 [/yufuid.com]tcp://223.6.6.6
