@@ -29,10 +29,10 @@ jobs:
         python ChinaDomainlist_AutoUpdate.py
         python Gfwlist_Decode.py
         rm -f gfwlist2dnsmasq.sh
-        rm -f dnsmasq_gfwlist.conf
+        rm -f gfwlist_dnsmasq.conf
         wget https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/master/gfwlist2dnsmasq.sh
         chmod +x gfwlist2dnsmasq.sh
-        sh gfwlist2dnsmasq.sh -o ./dnsmasq_gfwlist.conf
+        sh gfwlist2dnsmasq.sh -o ./gfwlist_dnsmasq.conf
     - name: commit
       env:
         GIT_NAME: github-actions[bot]
