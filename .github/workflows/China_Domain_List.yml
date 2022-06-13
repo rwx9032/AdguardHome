@@ -36,9 +36,11 @@ jobs:
         rm -f gfwlist_AdguardHome.txt
         python Gfwlist_AutoUpdate.py
         rm -f config
-        cp ./head.txt ./config
-        cp ./gfwlist_AdguardHome.txt ./config
         cp ./CNDomains_AdguardHome.txt ./config
+        cp ./gfwlist_AdguardHome.txt ./config
+        cp ./head.txt ./config
+        
+        
     - name: commit
       env:
         GIT_NAME: github-actions[bot]
