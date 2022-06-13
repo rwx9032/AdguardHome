@@ -23,7 +23,7 @@ jobs:
         rm -f accelerated-domains.china.conf
         wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
         rm -f gfwlist.txt
-        https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+        wget https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
         python ChinaDomainlist_AutoUpdate.py	
     - name: commit
       run: |
