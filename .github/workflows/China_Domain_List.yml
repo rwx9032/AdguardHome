@@ -26,6 +26,11 @@ jobs:
         wget https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
         python ChinaDomainlist_AutoUpdate.py	
     - name: commit
+      env:
+        GIT_NAME: github-actions[bot]
+        GIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        REPO: github.com/rwx9032/AdguardHome
+        GH_TOKEN: ${{ secrets.GH_TOKEN_BLOG }}
       run: |
         git checkout development
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
