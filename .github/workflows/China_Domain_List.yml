@@ -21,8 +21,10 @@ jobs:
       run: |
         cd ./AutoUpdate
         rm -f accelerated-domains.china.conf
+        rm -f CNDomains_AdguardHome.txt
         wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
         rm -f gfwlist.txt
+        rm -f gfwlist_decode.txt
         wget https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
         python ChinaDomainlist_AutoUpdate.py
         python Gfwlist_Decode.py
