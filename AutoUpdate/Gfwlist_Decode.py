@@ -10,4 +10,4 @@ def ToFile(txt, file):
         fout.write(ori_image_data)
         fout.close()
         
-ToFile("./gfwlist.txt",'gfwlist_deocode.txt')
+ToFile("./gfwlist.txt",'gfwlist_decode.txt')
