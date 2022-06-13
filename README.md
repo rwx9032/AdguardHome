@@ -12,7 +12,7 @@
 
 然后wget AdguardHome_Upstreams.txt 到 /root 里面（一般就是ssh连上的默认的位置
 
-默认配置账号root密码password记得更改
+懒人默认配置账号root密码password记得更改
 
 # 特别感谢
 
