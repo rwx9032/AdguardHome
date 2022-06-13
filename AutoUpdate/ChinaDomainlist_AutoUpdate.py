@@ -2,7 +2,7 @@ import sys
 import re
  
 f1 = open('./accelerated-domains.china.conf','r+')
-f2 = open('./accelerated-domains-Adguard_Home.china.txt','w+')
+f2 = open('./CNDomains_AdguardHome.txt','w+')
 str1=r'server='
 str2=r'['
 str3=r'/114.114.114.114'
