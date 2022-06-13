@@ -4,7 +4,9 @@
 
 指定被污染的域名给境外dns 使其返回正确的ip
 
-可直接在配置文件的 upstream_dns_file 中指定文件
+# 使用方法
+
+直接在配置文件的 upstream_dns_file 中指定 AdguardHome_Upstreams.txt
 
 也可以直接复制懒人配置 AdGuardHome.yaml 到手动设置里面
 
