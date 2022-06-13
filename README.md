@@ -19,3 +19,9 @@
 国内域名列表取自 felixonmars/dnsmasq-china-list
 
 Gfw域名列表取自 gfwlist/gfwlist
+
+自动更新域名使用了 cokebar/gfwlist2dnsmasq
+
+#Feture
+
+实现自动更新域名列表（在咕了
