@@ -33,6 +33,8 @@ jobs:
         wget https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/master/gfwlist2dnsmasq.sh
         chmod +x gfwlist2dnsmasq.sh
         sh gfwlist2dnsmasq.sh -o ./gfwlist_dnsmasq.conf
+        rm gfwlist_AdguardHome.txt
+        python Gfwlist_AutoUpdate.py
     - name: commit
       env:
         GIT_NAME: github-actions[bot]
