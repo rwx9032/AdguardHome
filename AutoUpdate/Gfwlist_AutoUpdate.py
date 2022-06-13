@@ -1,7 +1,7 @@
 import sys
 import re
  
-f1 = open('./gfwlist_dnsmasq.txt','r+')
+f1 = open('./gfwlist_dnsmasq.conf','r+')
 f2 = open('./gfwlist_AdguardHome.txt','w+')
 str1=r'server='
 str2=r'['
