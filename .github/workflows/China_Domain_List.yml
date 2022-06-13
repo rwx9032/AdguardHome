@@ -36,5 +36,4 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add .
         git commit -m "autoupdate" -a
-        git checkout development
-        git push origin development:development
+        git push
