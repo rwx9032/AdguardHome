@@ -25,7 +25,7 @@ jobs:
         rm -f gfwlist.txt
         wget https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
         python ChinaDomainlist_AutoUpdate.py
-        python Gfwlist_AutoUpdate.py
+        python Gfwlist_Decode.py
     - name: commit
       env:
         GIT_NAME: github-actions[bot]
