@@ -32,4 +32,4 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add .
         git commit -m "autoupdate" -a
-        git push "https://$GH_TOKEN@github.com/rwx9032/AdguardHome/" development:development
+        git push "https://$GH_TOKEN@$github.com/rwx9032/AdguardHome/" development:development
