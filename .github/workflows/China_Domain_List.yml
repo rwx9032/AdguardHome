@@ -41,6 +41,10 @@ jobs:
         cat gfwlist_AdguardHome.txt >> config.txt
         cat CNDomains_AdguardHome.txt >> config.txt
         
+        cd ..
+        cp ./AutoUpdate/config.txt ./AdguardHome_Upstreams_Autoupdate.txt
+        cp ./AutoUpdate/config.txt ./AdguardHome_Upstreams_Autoupdate.yaml
+        
     - name: commit
       env:
         GIT_NAME: github-actions[bot]
