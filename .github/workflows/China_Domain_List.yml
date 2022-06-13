@@ -1,6 +1,7 @@
 name: Autoupdate_China_Domain
 
 on:
+  push
   schedule:
     - cron: '0 0 * * *'
 
