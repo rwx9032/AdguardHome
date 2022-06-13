@@ -36,4 +36,4 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add .
         git commit -m "autoupdate" -a
-        git push
+        git push borigin HEAD:development
