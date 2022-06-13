@@ -35,9 +35,8 @@ jobs:
         sh gfwlist2dnsmasq.sh -o ./gfwlist_dnsmasq.conf
         rm -f gfwlist_AdguardHome.txt
         python Gfwlist_AutoUpdate.py
-        cd ..
-        cp ./AutoUpdate/CNDomains_AdguardHome.txt /filelist
-        cp ./AutoUpdate/gfwlist_AdguardHome.txt /filelist
+        cp ./CNDomains_AdguardHome.txt /config
+        cp ./gfwlist_AdguardHome.txt /config
     - name: commit
       env:
         GIT_NAME: github-actions[bot]
