@@ -17,7 +17,7 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
-    - name: Update paper list
+    - name: Update domain list
       run: |
         cd ./AutoUpdate
         rm -f accelerated-domains.china.conf
