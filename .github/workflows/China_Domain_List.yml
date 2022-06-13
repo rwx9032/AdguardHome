@@ -32,7 +32,4 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add .
         git commit -m "autoupdate" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        git push "https://$GH_TOKEN@$REPO" development:development
