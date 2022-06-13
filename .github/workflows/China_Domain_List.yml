@@ -24,7 +24,8 @@ jobs:
         wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
         rm -f gfwlist.txt
         wget https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
-        python ChinaDomainlist_AutoUpdate.py	
+        python ChinaDomainlist_AutoUpdate.py
+        python Gfwlist_AutoUpdate.py
     - name: commit
       env:
         GIT_NAME: github-actions[bot]
