@@ -1,6 +1,9 @@
 name: Autoupdate_China_Domain
 
 on:
+  push:
+    branches:
+      - development
   schedule:
     - cron: '0 0 * * *'
 
@@ -14,13 +17,40 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
-    - name: Update paper list
+    - name: Update domain list
       run: |
         cd ./AutoUpdate
         rm -f accelerated-domains.china.conf
+        rm -f CNDomains_AdguardHome.txt
         wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
-        python ChinaDomainlist_AutoUpdate.py	
+        rm -f gfwlist.txt
+        rm -f gfwlist_decode.txt
+        wget https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+        python ChinaDomainlist_AutoUpdate.py
+        python Gfwlist_Decode.py
+        rm -f gfwlist2dnsmasq.sh
+        rm -f gfwlist_dnsmasq.conf
+        wget https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/master/gfwlist2dnsmasq.sh
+        chmod +x gfwlist2dnsmasq.sh
+        sh gfwlist2dnsmasq.sh -o ./gfwlist_dnsmasq.conf
+        rm -f gfwlist_AdguardHome.txt
+        python Gfwlist_AutoUpdate.py
+        rm -f config.txt
+        echo "Create Date:" $(date +"%Y-%m-%d %H:%M:%S") >> config.txt
+        cat head.txt >> config.txt
+        cat gfwlist_AdguardHome.txt >> config.txt
+        cat CNDomains_AdguardHome.txt >> config.txt
+        
+        cd ..
+        cp ./AutoUpdate/config.txt ./AdguardHome_Upstreams_Autoupdate.txt
+        cp ./AutoUpdate/config.txt ./AdguardHome_Upstreams_Autoupdate.yaml
+        
     - name: commit
+      env:
+        GIT_NAME: github-actions[bot]
+        GIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        REPO: github.com/rwx9032/AdguardHome
+        GH_TOKEN: ${{ secrets.GH_TOKEN_BLOG }}
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
@@ -30,3 +60,4 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
