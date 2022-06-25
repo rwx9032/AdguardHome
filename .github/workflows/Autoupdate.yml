@@ -1,4 +1,4 @@
-name: Autoupdate_China_Domain
+name: Autoupdate
 
 on:
   schedule:
