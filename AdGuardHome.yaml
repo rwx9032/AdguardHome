@@ -65,26 +65,6 @@ dns:
   rewrites:
   - domain: '*.emby.wtf'
     answer: back100.880660.xyz
-  - domain: google.com
-    answer: hkg07s37-in-f14.1e100.net
-  - domain: www.google.com
-    answer: hkg07s37-in-f14.1e100.net
-  - domain: youtube.com
-    answer: hkg07s37-in-f14.1e100.net
-  - domain: www.youtube.com
-    answer: hkg07s37-in-f14.1e100.net
-  - domain: github.com
-    answer: aws.amazon.com
-  - domain: www.github.com
-    answer: aws.amazon.com
-  - domain: dl.google.com
-    answer: hkg07s37-in-f14.1e100.net
-  - domain: dl.l.google.com
-    answer: hkg07s37-in-f14.1e100.net
-  - domain: translate.googleapis.com
-    answer: hkg07s37-in-f14.1e100.net
-  - domain: translation.googleapis.com
-    answer: hkg07s37-in-f14.1e100.net
   blocked_services: []
   local_domain_name: lan
   resolve_clients: true
