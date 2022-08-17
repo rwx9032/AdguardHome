@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: X4SeaYSPX7Zx0pQqgrE6Zw
+! Checksum: jWsiTfseuK01rDgvDIzU3A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 14 Aug 2022 12:21:11 -0400
+! Last Modified: Tue, 16 Aug 2022 11:38:52 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5953,6 +5953,7 @@ pastebin.com
 .pastie.org
 ||pastie.org
 ||blog.pathtosharepoint.com
+||patreon.com
 pbs.org/wgbh/pages/frontline/tankman
 pbs.org/wgbh/pages/frontline/tibet
 video.pbs.org
