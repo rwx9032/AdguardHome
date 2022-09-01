@@ -3298,6 +3298,7 @@
 [/3mtw.com/]tcp://223.6.6.6
 [/3mu.me/]tcp://223.6.6.6
 [/3n110.com/]tcp://223.6.6.6
+[/3nbb.com/]tcp://223.6.6.6
 [/3nian.com/]tcp://223.6.6.6
 [/3png.com/]tcp://223.6.6.6
 [/3poo.com/]tcp://223.6.6.6
@@ -4254,6 +4255,7 @@
 [/51yundong.me/]tcp://223.6.6.6
 [/51yunli.com/]tcp://223.6.6.6
 [/51yuu.com/]tcp://223.6.6.6
+[/51ywx.com/]tcp://223.6.6.6
 [/51zan.com/]tcp://223.6.6.6
 [/51zbz.com/]tcp://223.6.6.6
 [/51zbz.net/]tcp://223.6.6.6
@@ -18323,7 +18325,6 @@
 [/diandanbao.com/]tcp://223.6.6.6
 [/diandao.org/]tcp://223.6.6.6
 [/diandaxia.com/]tcp://223.6.6.6
-[/diandazuoye.com/]tcp://223.6.6.6
 [/diandian.com/]tcp://223.6.6.6
 [/diandianshu.com/]tcp://223.6.6.6
 [/diandianwaimai.com/]tcp://223.6.6.6
@@ -21940,7 +21941,6 @@
 [/fengmanginfo.com/]tcp://223.6.6.6
 [/fengmaniu.com/]tcp://223.6.6.6
 [/fengmeng.net/]tcp://223.6.6.6
-[/fengmi.tv/]tcp://223.6.6.6
 [/fengmk2.com/]tcp://223.6.6.6
 [/fengniao.com/]tcp://223.6.6.6
 [/fengniaohuanjing.com/]tcp://223.6.6.6
@@ -30153,6 +30153,7 @@
 [/iosre.com/]tcp://223.6.6.6
 [/ioswift.org/]tcp://223.6.6.6
 [/iot-online.com/]tcp://223.6.6.6
+[/iot.moe/]tcp://223.6.6.6
 [/iot1001.com/]tcp://223.6.6.6
 [/iot101.com/]tcp://223.6.6.6
 [/iot688.com/]tcp://223.6.6.6
@@ -31273,6 +31274,7 @@
 [/jhrcbank.com/]tcp://223.6.6.6
 [/jhsbggw.com/]tcp://223.6.6.6
 [/jhscm.com/]tcp://223.6.6.6
+[/jhscrm.com/]tcp://223.6.6.6
 [/jhsctv.com/]tcp://223.6.6.6
 [/jhsdai.com/]tcp://223.6.6.6
 [/jhsfojiao.com/]tcp://223.6.6.6
@@ -35029,6 +35031,7 @@
 [/lanzout.com/]tcp://223.6.6.6
 [/lanzouw.com/]tcp://223.6.6.6
 [/lanzoux.com/]tcp://223.6.6.6
+[/lanzouy.com/]tcp://223.6.6.6
 [/lanzun.net/]tcp://223.6.6.6
 [/lao9123.com/]tcp://223.6.6.6
 [/laob.me/]tcp://223.6.6.6
@@ -37895,6 +37898,7 @@
 [/maxhub.vip/]tcp://223.6.6.6
 [/maxiang.info/]tcp://223.6.6.6
 [/maxiang.io/]tcp://223.6.6.6
+[/maxiaobang.com/]tcp://223.6.6.6
 [/maxitas.com/]tcp://223.6.6.6
 [/maxjia.com/]tcp://223.6.6.6
 [/maxket.com/]tcp://223.6.6.6
@@ -39974,6 +39978,7 @@
 [/mywang.net/]tcp://223.6.6.6
 [/mywayboo.net/]tcp://223.6.6.6
 [/myweimai.com/]tcp://223.6.6.6
+[/mywhh.com/]tcp://223.6.6.6
 [/mywll.com/]tcp://223.6.6.6
 [/mywood.cc/]tcp://223.6.6.6
 [/myxypt.com/]tcp://223.6.6.6
@@ -41574,6 +41579,7 @@
 [/openedv.com/]tcp://223.6.6.6
 [/openerp.hk/]tcp://223.6.6.6
 [/openeuler.org/]tcp://223.6.6.6
+[/openfrp.net/]tcp://223.6.6.6
 [/opengcc.org/]tcp://223.6.6.6
 [/opengslb.com/]tcp://223.6.6.6
 [/openinstall.io/]tcp://223.6.6.6
@@ -42608,7 +42614,6 @@
 [/pifukezaixian.com/]tcp://223.6.6.6
 [/pig.ai/]tcp://223.6.6.6
 [/pig4cloud.com/]tcp://223.6.6.6
-[/pig66.com/]tcp://223.6.6.6
 [/pigai.org/]tcp://223.6.6.6
 [/pigcms.com/]tcp://223.6.6.6
 [/pigjian.com/]tcp://223.6.6.6
@@ -46752,7 +46757,6 @@
 [/seo.tm/]tcp://223.6.6.6
 [/seo123.net/]tcp://223.6.6.6
 [/seo628.com/]tcp://223.6.6.6
-[/seo8.org/]tcp://223.6.6.6
 [/seo8o.com/]tcp://223.6.6.6
 [/seocun.com/]tcp://223.6.6.6
 [/seocxw.com/]tcp://223.6.6.6
@@ -50793,6 +50797,7 @@
 [/tbl-import.com/]tcp://223.6.6.6
 [/tblk.me/]tcp://223.6.6.6
 [/tbnimg.com/]tcp://223.6.6.6
+[/tboxn.com/]tcp://223.6.6.6
 [/tbq168.com/]tcp://223.6.6.6
 [/tbqw.com/]tcp://223.6.6.6
 [/tbsandbox.com/]tcp://223.6.6.6
@@ -56802,6 +56807,7 @@
 [/wuzhenfestival.com/]tcp://223.6.6.6
 [/wuzhenpay.com/]tcp://223.6.6.6
 [/wuzhenwic.org/]tcp://223.6.6.6
+[/wuzhenwucun.com/]tcp://223.6.6.6
 [/wuzhicms.com/]tcp://223.6.6.6
 [/wuzhiwei.net/]tcp://223.6.6.6
 [/wuzhouqianzheng.com/]tcp://223.6.6.6
