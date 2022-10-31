@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: SWiJNbVEmKyxSOSZhC+NDA
+! Checksum: r4SYSZr5/Ull/SHPPTQ/mg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 28 Oct 2022 10:50:19 -0400
+! Last Modified: Sat, 29 Oct 2022 22:47:21 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4964,6 +4964,7 @@ jpopforum.net
 .juoaa.com
 |http://juoaa.com
 justfreevpn.com
+||justhost.ru
 .justicefortenzin.org
 justpaste.it
 ||justmysocks1.net
