@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: HJ+e21dlgn2blAVs/epriQ
+! Checksum: zuyO6VGMyQfDA+wtpO5tzw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 05 Nov 2022 15:00:57 -0400
+! Last Modified: Mon, 14 Nov 2022 00:20:44 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2586,7 +2586,8 @@ brucewang.net
 ||bt95.com
 .btaia.com
 .btbtav.com
-|http://btdigg.org
+||btdig.com
+||btdigg.org
 .btku.me
 ||btku.me
 ||btku.org
@@ -2595,9 +2596,7 @@ brucewang.net
 .budaedu.org
 ||budaedu.org
 .buddhanet.com.tw/zfrop/tibet
-.buddhistchannel.tv
-.buffered.com
-|http://buffered.com
+||buffered.com
 ||bullguard.com
 .bullog.org
 ||bullog.org
@@ -5866,6 +5865,7 @@ openid.net
 ||openid.net
 .openleaks.org
 ||openleaks.org
+||openstreetmap.org
 ||opentech.fund
 openvpn.net
 ||openvpn.net
