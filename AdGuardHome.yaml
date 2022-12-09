@@ -2,7 +2,7 @@ bind_host: 0.0.0.0
 bind_port: 3001
 beta_bind_port: 0
 users:
-- name: admin
+- name: root
   password: $2y$10$w7c/AlzscIfwjMVxIMnw3ub0J.KHUvkDAsrhzDp59YemD4eBcS1Uu
 auth_attempts: 5
 block_auth_min: 15
@@ -63,8 +63,8 @@ dns:
   parental_cache_size: 1048576
   cache_time: 30
   rewrites:
-  - domain: '*.emby.wtf'
-    answer: back100.880660.xyz
+  - domain: 'translate.googleapis.com'
+    answer: hkg07s37-in-f14.1e100.net
   blocked_services: []
   local_domain_name: lan
   resolve_clients: true
