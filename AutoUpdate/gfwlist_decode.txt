@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: zuyO6VGMyQfDA+wtpO5tzw
+! Checksum: nUZdXw8eJTkdENEgyMZBcg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 14 Nov 2022 00:20:44 -0500
+! Last Modified: Sat, 07 Jan 2023 19:54:27 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2343,9 +2343,10 @@ badoo.com
 |http://*2.bahamut.com.tw
 ||baidu.jp
 .baijie.org
-|http://baijie.org
+||baijie.org
 ||bailandaily.com
 ||baixing.me
+||baizhi.org
 ||bakgeekhome.tk
 .banana-vpn.com
 ||banana-vpn.com
@@ -3853,6 +3854,7 @@ gamejolt.com
 .gaoming.net
 ||gaoming.net
 ganges.com
+||ganjing.com
 ||ganjingworld.com
 .gaopi.net
 |http://gaopi.net
