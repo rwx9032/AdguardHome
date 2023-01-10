@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: nUZdXw8eJTkdENEgyMZBcg
+! Checksum: LgKbI4GbZPcVwOtij4XnjA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 07 Jan 2023 19:54:27 -0500
+! Last Modified: Sun, 08 Jan 2023 23:07:58 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -493,6 +493,7 @@ share.dmhy.org
 ||gatecoin.com
 ||hbg.com
 ||hitbtc.com
+||hotcoin.com
 ||huobi.co
 ||huobi.com
 ||huobi.me
@@ -503,6 +504,7 @@ share.dmhy.org
 ||bx.in.th
 ||jex.com
 ||kex.com
+||kraken.com
 ||kspcoin.com
 ||kucoin.com
 ||lbank.info
@@ -1522,6 +1524,7 @@ blogspot.com
 ||waymo.com
 ||web.dev
 ||webmproject.org
+||webpkgcache.com
 ||webrtc.org
 ||whatbrowser.org
 ||widevine.com
@@ -2042,6 +2045,7 @@ abclite.net
 .ablwang.com
 .aboluowang.com
 ||aboluowang.com
+||about.me
 .aboutgfw.com
 .abs.edu
 ||acast.com
@@ -2603,6 +2607,7 @@ brucewang.net
 ||bullog.org
 .bullogger.com
 ||bullogger.com
+||bumingbai.net
 ||bunbunhk.com
 .busayari.com
 |http://busayari.com
@@ -2822,6 +2827,7 @@ chinachannel.hk
 ||chinaelections.org
 .chinaeweekly.com
 ||chinaeweekly.com
+||chinafile.com
 ||chinafreepress.org
 .chinagate.com
 chinageeks.org
@@ -3250,6 +3256,7 @@ dongtaiwang.com
 ||dotvpn.com
 .doub.io
 ||doub.io
+||doublethinklab.org
 ||dougscripts.com
 ||douhokanko.net
 ||doujincafe.com
@@ -4437,6 +4444,7 @@ app.heywire.com
 .hhdcb3office.org
 .hhthesakyatrizin.org
 hi-on.org.tw
+||hiccears.com
 hidden-advent.org
 ||hidden-advent.org
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
@@ -4540,6 +4548,7 @@ hkptu.org
 hnjhj.com
 ||hnjhj.com
 .hnntube.com
+||hojemacau.com.mo
 ||hola.com
 ||hola.org
 holymountaincn.com
@@ -4624,6 +4633,7 @@ huaxin.ph
 ||huhangfei.com
 huiyi.in
 .hulkshare.com
+||humanrightspressawards.org
 ||hung-ya.com
 ||hungerstrikeforaids.org
 ||huping.net
@@ -5488,6 +5498,7 @@ molihua.org
 ||moonbbs.com
 ||moptt.tw
 ||monitorchina.org
+||monocloud.me
 bbs.morbell.com
 ||morningsun.org
 ||moroneta.com
@@ -5663,6 +5674,7 @@ newcenturynews.com
 ||newhighlandvision.com
 newipnow.com
 .newlandmagazine.com.au
+||newmitbbs.com
 .newnews.ca
 news100.com.tw
 newschinacomment.org
@@ -5695,7 +5707,7 @@ newyorktimes.com
 .nextmedia.com
 
 ||nexton-net.jp
-nexttv.com.tw
+||nexttv.com.tw
 .nfjtyd.com
 ||co.ng.mil
 ||nga.mil
@@ -5966,6 +5978,7 @@ pastebin.com
 ||pastie.org
 ||blog.pathtosharepoint.com
 ||patreon.com
+||pawoo.net
 pbs.org/wgbh/pages/frontline/tankman
 pbs.org/wgbh/pages/frontline/tibet
 video.pbs.org
@@ -6476,8 +6489,8 @@ sacom.hk
 ||salvation.org.hk
 .samair.ru/proxy/type-01
 .sambhota.org
-.cn.sandscotaicentral.com
-|http://cn.sandscotaicentral.com
+||cn.sandscotaicentral.com
+||sankakucomplex.com
 ||sankei.com
 .sanmin.com.tw
 sapikachu.net
@@ -7341,7 +7354,7 @@ tsunagarumon.com
 ||tt1069.com
 .tttan.com
 ||tttan.com
-bb.ttv.com.tw/bb
+||ttv.com.tw
 tu8964.com
 .tubaholic.com
 .tube.com
@@ -8392,31 +8405,31 @@ ultrasurf
 @@||adservice.google.com
 !--ISP cache works sometimes, verified at drpeng + gehua.
 @@||dl.google.com
-@@||kh.google.com
-@@||khm.google.com
-@@||khm0.google.com
-@@||khm1.google.com
-@@||khm2.google.com
-@@||khm3.google.com
-@@||khmdb.google.com
+!--@@||kh.google.com
+!--@@||khm.google.com
+!--@@||khm0.google.com
+!--@@||khm1.google.com
+!--@@||khm2.google.com
+!--@@||khm3.google.com
+!--@@||khmdb.google.com
 @@||tools.google.com
 @@||clientservices.googleapis.com
 @@||fonts.googleapis.com
-@@||khm.googleapis.com
-@@||khm0.googleapis.com
-@@||khm1.googleapis.com
-@@||khm2.googleapis.com
-@@||khm3.googleapis.com
-@@||khmdb.googleapis.com
+!--@@||khm.googleapis.com
+!--@@||khm0.googleapis.com
+!--@@||khm1.googleapis.com
+!--@@||khm2.googleapis.com
+!--@@||khm3.googleapis.com
+!--@@||khmdb.googleapis.com
 @@||storage.googleapis.com
 !--@@||translate.googleapis.com
 @@||update.googleapis.com
 @@||safebrowsing.googleapis.com
 @@||cn.gravatar.com
-@@||connectivitycheck.gstatic.com
-@@||csi.gstatic.com
-@@||fonts.gstatic.com
-@@||ssl.gstatic.com
+!--@@||connectivitycheck.gstatic.com
+!--@@||csi.gstatic.com
+!--@@||fonts.gstatic.com
+!--@@||ssl.gstatic.com
 @@||haosou.com
 @@||ip.cn
 @@||jike.com
