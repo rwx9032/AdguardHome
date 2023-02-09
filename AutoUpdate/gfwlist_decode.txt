@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: LgKbI4GbZPcVwOtij4XnjA
+! Checksum: JEcWDKg60ElOC8BtpR7Atg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 08 Jan 2023 23:07:58 -0500
+! Last Modified: Tue, 07 Feb 2023 23:34:51 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -93,7 +93,7 @@ share.dmhy.org
 ||getuploader.com
 ||ghidra-sre.org
 !--|https://github.com/programthink/zhao
-|https://raw.githubusercontent.com/programthink/zhao
+!--|https://raw.githubusercontent.com/programthink/zhao
 ||glass8.eu
 ||glype.com
 ||go141.com
@@ -193,6 +193,7 @@ share.dmhy.org
 !--We are confused as well
 ||ontrac.com
 @@|http://blog.ontrac.com
+||openai.com
 ||pandora.com
 .pandora.tv
 ||parkansky.com
@@ -4773,21 +4774,22 @@ in-disguise.com
 ||timesofindia.indiatimes.com
 .indiemerch.com
 ||indiemerch.com
-info-graf.fr
+||info-graf.fr
 website.informer.com
 ||initiativesforchina.org
-.inkui.com
-.inmediahk.net
+||inkui.com
+||inmediahk.net
 ||inmediahk.net
 ||innermongolia.org
 ||inoreader.com
-.inote.tw
-.insecam.org
+||inote.tw
+||insecam.org
 |http://insecam.org
 ||inside.com.tw
 ||insidevoa.com
-.institut-tibetain.org
-|http://internet.org/
+||institut-tibetain.org
+||interactivebrokers.com
+||internet.org
 internetdefenseleague.org
 internetfreedom.org
 !--||interpol.int
@@ -6821,7 +6823,8 @@ spem.at
 .spotflux.com
 ||spotflux.com
 .spring4u.info
-|http://spring4u.info
+||spring4u.info
+||springwood.me
 ||sproutcore.com
 ||sproxy.info
 ||squirrelvpn.com
@@ -7105,6 +7108,7 @@ thehousenews.com
 ||theporndude.com
 ||theportalwiki.com
 ||theprint.in
+||threadreaderapp.com
 thereallove.kr
 therock.net.nz
 ||thesaturdaypaper.com.au
@@ -8232,6 +8236,7 @@ yinlei.org/mt
 .yomiuri.co.jp
 yong.hu
 .yorkbbs.ca
+||you.com
 ||youxu.info
 .youjizz.com
 ||youjizz.com
@@ -8437,6 +8442,7 @@ ultrasurf
 @@|http://www.google.cn/maps
 @@||http2.golang.org
 @@||gov.cn
+@@||ocsp.pki.goog
 @@||qq.com
 @@||sina.cn
 @@||sina.com.cn
