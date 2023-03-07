@@ -9652,6 +9652,7 @@
 [/bangdao-tech.com/]tcp://223.6.6.6
 [/banggo.com/]tcp://223.6.6.6
 [/banghaiwai.com/]tcp://223.6.6.6
+[/bangjixia.com/]tcp://223.6.6.6
 [/bangkao.com/]tcp://223.6.6.6
 [/bangkebao.com/]tcp://223.6.6.6
 [/banglianai.com/]tcp://223.6.6.6
@@ -13116,6 +13117,7 @@
 [/cha-tm.com/]tcp://223.6.6.6
 [/cha001.com/]tcp://223.6.6.6
 [/cha127.com/]tcp://223.6.6.6
+[/cha138.com/]tcp://223.6.6.6
 [/chabeichong.com/]tcp://223.6.6.6
 [/chachaba.com/]tcp://223.6.6.6
 [/chachaqu.com/]tcp://223.6.6.6
@@ -16332,6 +16334,7 @@
 [/cshixi.com/]tcp://223.6.6.6
 [/cshnkj.com/]tcp://223.6.6.6
 [/cshope.net/]tcp://223.6.6.6
+[/cshuandu.com/]tcp://223.6.6.6
 [/cshufanyi.com/]tcp://223.6.6.6
 [/cshxdc.com/]tcp://223.6.6.6
 [/cshyqx.com/]tcp://223.6.6.6
@@ -17296,7 +17299,6 @@
 [/dawnlab.me/]tcp://223.6.6.6
 [/dawnled.net/]tcp://223.6.6.6
 [/dawuhanapp.com/]tcp://223.6.6.6
-[/dawuxia.net/]tcp://223.6.6.6
 [/dawx.com/]tcp://223.6.6.6
 [/dawx.net/]tcp://223.6.6.6
 [/daxi.com/]tcp://223.6.6.6
@@ -22636,6 +22638,7 @@
 [/gansuairport.com/]tcp://223.6.6.6
 [/gansunet.com/]tcp://223.6.6.6
 [/gansuyunshi.com/]tcp://223.6.6.6
+[/gantanhao.vip/]tcp://223.6.6.6
 [/ganxi666.com/]tcp://223.6.6.6
 [/ganxianw.com/]tcp://223.6.6.6
 [/ganxianzhi.win/]tcp://223.6.6.6
@@ -28155,7 +28158,6 @@
 [/hzwsjyjt.com/]tcp://223.6.6.6
 [/hzwtech.com/]tcp://223.6.6.6
 [/hzwxq.com/]tcp://223.6.6.6
-[/hzwyh.com/]tcp://223.6.6.6
 [/hzxhymc.com/]tcp://223.6.6.6
 [/hzxiaobao.com/]tcp://223.6.6.6
 [/hzxiyuege.com/]tcp://223.6.6.6
@@ -38741,9 +38743,7 @@
 [/mrqf.com/]tcp://223.6.6.6
 [/mrsta.com/]tcp://223.6.6.6
 [/mrsu.me/]tcp://223.6.6.6
-[/mrtbc.com/]tcp://223.6.6.6
 [/mrw.so/]tcp://223.6.6.6
-[/mrwfbk.bar/]tcp://223.6.6.6
 [/mrwish.net/]tcp://223.6.6.6
 [/mrzhenggang.com/]tcp://223.6.6.6
 [/mrzl.com/]tcp://223.6.6.6
@@ -42629,6 +42629,7 @@
 [/pythondoc.com/]tcp://223.6.6.6
 [/pythoner.com/]tcp://223.6.6.6
 [/pythonheidong.com/]tcp://223.6.6.6
+[/pythonke.com/]tcp://223.6.6.6
 [/pythonpub.com/]tcp://223.6.6.6
 [/pythontab.com/]tcp://223.6.6.6
 [/pythontip.com/]tcp://223.6.6.6
@@ -43208,6 +43209,7 @@
 [/qimingvc.com/]tcp://223.6.6.6
 [/qimingventures.com/]tcp://223.6.6.6
 [/qimingzi.net/]tcp://223.6.6.6
+[/qiminzi.com/]tcp://223.6.6.6
 [/qimo.biz/]tcp://223.6.6.6
 [/qimodesign.com/]tcp://223.6.6.6
 [/qimser.com/]tcp://223.6.6.6
@@ -46191,7 +46193,6 @@
 [/shangdandan.com/]tcp://223.6.6.6
 [/shangdaotong.com/]tcp://223.6.6.6
 [/shangdiguo.com/]tcp://223.6.6.6
-[/shangdingxin.com/]tcp://223.6.6.6
 [/shangdixinxi.com/]tcp://223.6.6.6
 [/shangdu.com/]tcp://223.6.6.6
 [/shangdu.info/]tcp://223.6.6.6
@@ -47571,7 +47572,6 @@
 [/sjhl.cc/]tcp://223.6.6.6
 [/sjhy.net/]tcp://223.6.6.6
 [/sjjob88.com/]tcp://223.6.6.6
-[/sjkhsl.fun/]tcp://223.6.6.6
 [/sjlqgg.com/]tcp://223.6.6.6
 [/sjm.life/]tcp://223.6.6.6
 [/sjmdh.com/]tcp://223.6.6.6
@@ -52180,6 +52180,7 @@
 [/uclmjs.com/]tcp://223.6.6.6
 [/ucloudgda.com/]tcp://223.6.6.6
 [/ucloudnaming.info/]tcp://223.6.6.6
+[/uclouds3.com/]tcp://223.6.6.6
 [/ucly.net/]tcp://223.6.6.6
 [/ucnaming.com/]tcp://223.6.6.6
 [/ucnano.com/]tcp://223.6.6.6
@@ -54280,6 +54281,7 @@
 [/weisiliang.com/]tcp://223.6.6.6
 [/weismarts.com/]tcp://223.6.6.6
 [/weistang.com/]tcp://223.6.6.6
+[/weisurvey.com/]tcp://223.6.6.6
 [/weisuyun.com/]tcp://223.6.6.6
 [/weitehui.com/]tcp://223.6.6.6
 [/weitiaozhuan.com/]tcp://223.6.6.6
@@ -58567,6 +58569,7 @@
 [/xymcp3.com/]tcp://223.6.6.6
 [/xymens.com/]tcp://223.6.6.6
 [/xymfqb.com/]tcp://223.6.6.6
+[/xymlcs.com/]tcp://223.6.6.6
 [/xymvip.com/]tcp://223.6.6.6
 [/xynbnb.com/]tcp://223.6.6.6
 [/xyniubi.com/]tcp://223.6.6.6
