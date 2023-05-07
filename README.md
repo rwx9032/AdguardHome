@@ -24,4 +24,4 @@ Gfw域名列表取自 gfwlist/gfwlist
 
 # Feture
 
-实现自动更新域名列表（在咕了
+重写自动更新域名列表（在咕了
