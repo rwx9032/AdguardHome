@@ -5732,7 +5732,6 @@
 [/8090xx.com/]tcp://223.6.6.6
 [/8090yx.com/]tcp://223.6.6.6
 [/8090yxs.com/]tcp://223.6.6.6
-[/809803.com/]tcp://223.6.6.6
 [/809926.net/]tcp://223.6.6.6
 [/80baicai.biz/]tcp://223.6.6.6
 [/80bi.com/]tcp://223.6.6.6
@@ -7799,7 +7798,6 @@
 [/aiweibang.com/]tcp://223.6.6.6
 [/aiweline.com/]tcp://223.6.6.6
 [/aiwen.cc/]tcp://223.6.6.6
-[/aiwenwo.net/]tcp://223.6.6.6
 [/aiwenyi.com/]tcp://223.6.6.6
 [/aiworkspace.com/]tcp://223.6.6.6
 [/aiwulao.com/]tcp://223.6.6.6
@@ -17288,6 +17286,7 @@
 [/dazhe5.com/]tcp://223.6.6.6
 [/dazhenzimiao.com/]tcp://223.6.6.6
 [/dazhewa.com/]tcp://223.6.6.6
+[/dazhong.com/]tcp://223.6.6.6
 [/dazhongbanben.com/]tcp://223.6.6.6
 [/dazhonghr.com/]tcp://223.6.6.6
 [/dazhoumzj.com/]tcp://223.6.6.6
@@ -18140,6 +18139,7 @@
 [/diygogogo.com/]tcp://223.6.6.6
 [/diygw.com/]tcp://223.6.6.6
 [/diyhi.com/]tcp://223.6.6.6
+[/diyiapp.com/]tcp://223.6.6.6
 [/diyicai.com/]tcp://223.6.6.6
 [/diyidan.com/]tcp://223.6.6.6
 [/diyidan.net/]tcp://223.6.6.6
@@ -20629,6 +20629,7 @@
 [/excelpx.com/]tcp://223.6.6.6
 [/exceltip.net/]tcp://223.6.6.6
 [/exchen.net/]tcp://223.6.6.6
+[/excm.net/]tcp://223.6.6.6
 [/exdoll.com/]tcp://223.6.6.6
 [/exexm.com/]tcp://223.6.6.6
 [/exezhanqun.com/]tcp://223.6.6.6
@@ -38855,6 +38856,7 @@
 [/mumayi.com/]tcp://223.6.6.6
 [/mumu01.com/]tcp://223.6.6.6
 [/muniao.com/]tcp://223.6.6.6
+[/mupao.com/]tcp://223.6.6.6
 [/mupceet.com/]tcp://223.6.6.6
 [/mupmstx.com/]tcp://223.6.6.6
 [/murdermysterypa.com/]tcp://223.6.6.6
@@ -42605,6 +42607,7 @@
 [/pystarter.com/]tcp://223.6.6.6
 [/pytgo.com/]tcp://223.6.6.6
 [/python-china.com/]tcp://223.6.6.6
+[/python100.com/]tcp://223.6.6.6
 [/python51.com/]tcp://223.6.6.6
 [/pythonav.com/]tcp://223.6.6.6
 [/pythonclub.org/]tcp://223.6.6.6
@@ -48511,6 +48514,7 @@
 [/starpiao.com/]tcp://223.6.6.6
 [/starrockinvest.com/]tcp://223.6.6.6
 [/starrtc.com/]tcp://223.6.6.6
+[/starrydyn.com/]tcp://223.6.6.6
 [/starrysurvey.com/]tcp://223.6.6.6
 [/stars-one.site/]tcp://223.6.6.6
 [/starschina.com/]tcp://223.6.6.6
@@ -57560,6 +57564,7 @@
 [/xitek.net/]tcp://223.6.6.6
 [/xitie.com/]tcp://223.6.6.6
 [/xitieba.com/]tcp://223.6.6.6
+[/xitieba.net/]tcp://223.6.6.6
 [/xitmi.com/]tcp://223.6.6.6
 [/xitong-tech.com/]tcp://223.6.6.6
 [/xitong110.com/]tcp://223.6.6.6
@@ -63721,6 +63726,7 @@
 [/zshield.net/]tcp://223.6.6.6
 [/zshl.com/]tcp://223.6.6.6
 [/zshlife.com/]tcp://223.6.6.6
+[/zshtys888.com/]tcp://223.6.6.6
 [/zshuoshao.online/]tcp://223.6.6.6
 [/zsia.org/]tcp://223.6.6.6
 [/zsihuo.com/]tcp://223.6.6.6
