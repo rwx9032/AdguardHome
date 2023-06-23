@@ -19556,7 +19556,6 @@
 [/easytrip.com/]tcp://223.6.6.6
 [/easyzw.com/]tcp://223.6.6.6
 [/eateapp.com/]tcp://223.6.6.6
-[/eaten.fun/]tcp://223.6.6.6
 [/eaydu.com/]tcp://223.6.6.6
 [/eayou.com/]tcp://223.6.6.6
 [/eayuan.com/]tcp://223.6.6.6
@@ -24642,6 +24641,7 @@
 [/h6app.com/]tcp://223.6.6.6
 [/h7ec.com/]tcp://223.6.6.6
 [/h8jx.com/]tcp://223.6.6.6
+[/h9hash.com/]tcp://223.6.6.6
 [/ha97.com/]tcp://223.6.6.6
 [/haawking.com/]tcp://223.6.6.6
 [/habadog.com/]tcp://223.6.6.6
@@ -36616,7 +36616,6 @@
 [/lzhpo.com/]tcp://223.6.6.6
 [/lzhygame.com/]tcp://223.6.6.6
 [/lzjdbjc.com/]tcp://223.6.6.6
-[/lzjjdd.net/]tcp://223.6.6.6
 [/lzjoy.com/]tcp://223.6.6.6
 [/lzlj.com/]tcp://223.6.6.6
 [/lzmoyin.com/]tcp://223.6.6.6
@@ -44033,7 +44032,6 @@
 [/qutuiwa.com/]tcp://223.6.6.6
 [/quumii.com/]tcp://223.6.6.6
 [/quvisa.com/]tcp://223.6.6.6
-[/quw1234.icu/]tcp://223.6.6.6
 [/quwaifu.com/]tcp://223.6.6.6
 [/quwan.com/]tcp://223.6.6.6
 [/quwan.fun/]tcp://223.6.6.6
@@ -46699,6 +46697,7 @@
 [/shiwan.com/]tcp://223.6.6.6
 [/shiwangyun.com/]tcp://223.6.6.6
 [/shiweisemi.com/]tcp://223.6.6.6
+[/shiwusmd.com/]tcp://223.6.6.6
 [/shixian.com/]tcp://223.6.6.6
 [/shixiaojin.com/]tcp://223.6.6.6
 [/shixibiaozhi.com/]tcp://223.6.6.6
@@ -48271,6 +48270,7 @@
 [/speednt.com/]tcp://223.6.6.6
 [/speedpdf.com/]tcp://223.6.6.6
 [/speedsz.net/]tcp://223.6.6.6
+[/speedtest.im/]tcp://223.6.6.6
 [/speedws.info/]tcp://223.6.6.6
 [/speedws.org/]tcp://223.6.6.6
 [/speiyou.com/]tcp://223.6.6.6
@@ -63740,7 +63740,6 @@
 [/ztch.ltd/]tcp://223.6.6.6
 [/ztcia.com/]tcp://223.6.6.6
 [/ztcnwy.com/]tcp://223.6.6.6
-[/ztdad.com/]tcp://223.6.6.6
 [/zte.net/]tcp://223.6.6.6
 [/ztedevice.com/]tcp://223.6.6.6
 [/ztedevices.com/]tcp://223.6.6.6
