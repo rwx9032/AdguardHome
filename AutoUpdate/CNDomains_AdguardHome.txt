@@ -6106,7 +6106,6 @@
 [/8tupian.com/]tcp://223.6.6.6
 [/8twan.com/]tcp://223.6.6.6
 [/8u58.com/]tcp://223.6.6.6
-[/8uka.com/]tcp://223.6.6.6
 [/8uyx.com/]tcp://223.6.6.6
 [/8wan.com/]tcp://223.6.6.6
 [/8win.net/]tcp://223.6.6.6
@@ -8474,6 +8473,7 @@
 [/aocde.com/]tcp://223.6.6.6
 [/aocdn.com/]tcp://223.6.6.6
 [/aoch.com/]tcp://223.6.6.6
+[/aochengcdn.com/]tcp://223.6.6.6
 [/aoclia.com/]tcp://223.6.6.6
 [/aocslb.com/]tcp://223.6.6.6
 [/aodabo.tech/]tcp://223.6.6.6
@@ -41179,7 +41179,6 @@
 [/panasonicmall.com/]tcp://223.6.6.6
 [/panchuang.net/]tcp://223.6.6.6
 [/panda-home.com/]tcp://223.6.6.6
-[/panda321.com/]tcp://223.6.6.6
 [/panda98.com/]tcp://223.6.6.6
 [/pandadastudio.com/]tcp://223.6.6.6
 [/pandafoundation.org/]tcp://223.6.6.6
@@ -60727,6 +60726,7 @@
 [/yuebei.vip/]tcp://223.6.6.6
 [/yuebingcheng.com/]tcp://223.6.6.6
 [/yuebooemt.com/]tcp://223.6.6.6
+[/yuecdn.net/]tcp://223.6.6.6
 [/yuecheng.com/]tcp://223.6.6.6
 [/yuedaoec.com/]tcp://223.6.6.6
 [/yuedisk.com/]tcp://223.6.6.6
@@ -60767,6 +60767,7 @@
 [/yuesuoping.com/]tcp://223.6.6.6
 [/yuetu.tech/]tcp://223.6.6.6
 [/yuetutu.com/]tcp://223.6.6.6
+[/yuetuvip.com/]tcp://223.6.6.6
 [/yuetuvip.net/]tcp://223.6.6.6
 [/yuetx.cc/]tcp://223.6.6.6
 [/yueweimusic.com/]tcp://223.6.6.6
@@ -61178,7 +61179,6 @@
 [/yuzhulin.com/]tcp://223.6.6.6
 [/yuzi.net/]tcp://223.6.6.6
 [/yuzvf.com/]tcp://223.6.6.6
-[/yveqi.com/]tcp://223.6.6.6
 [/yvv.in/]tcp://223.6.6.6
 [/yvzfgigpiwmofux.com/]tcp://223.6.6.6
 [/yw11.com/]tcp://223.6.6.6
