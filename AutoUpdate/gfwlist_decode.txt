@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: FzrwXOsUo2Kxse803GAd6A
+! Checksum: F4+ULRho+VViEbwbq6Goqg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 19 May 2023 23:42:18 -0400
+! Last Modified: Sun, 23 Jul 2023 13:13:01 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -260,6 +260,7 @@ share.dmhy.org
 ||wowhead.com
 ||vod.wwe.com
 ||xfinity.com
+||xiaomi.eu
 ||youwin.com
 ||ytn.co.kr
 ||zattoo.com
@@ -4076,6 +4077,7 @@ greatzhonghua.org
 .greenvpn.net
 ||greenvpn.net
 .greenvpn.org
+||grindr.com
 ||grotty-monday.com
 gs-discuss.com
 ||gsearch.media
@@ -4737,8 +4739,7 @@ ifjc.org
 ||im.tv
 @@||myvlog.im.tv
 ||im88.tw
-.imgchili.net
-|http://imgchili.net
+||imgchili.net
 .imageab.com
 .imagefap.com
 ||imagefap.com
@@ -4757,6 +4758,7 @@ imageshack.us
 
 .img.ly
 ||img.ly
+||imgasd.com
 .imgur.com
 ||imgur.com
 .imkev.com
