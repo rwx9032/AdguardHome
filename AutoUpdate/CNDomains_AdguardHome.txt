@@ -6229,7 +6229,6 @@
 [/91985.com/]tcp://223.6.6.6
 [/91ac.com/]tcp://223.6.6.6
 [/91act.com/]tcp://223.6.6.6
-[/91aliyun.com/]tcp://223.6.6.6
 [/91all.net/]tcp://223.6.6.6
 [/91anjian.com/]tcp://223.6.6.6
 [/91art.net/]tcp://223.6.6.6
@@ -8823,6 +8822,7 @@
 [/ares.dl.playstation.net/]tcp://223.6.6.6
 [/arestech-sz.com/]tcp://223.6.6.6
 [/areweloongyet.com/]tcp://223.6.6.6
+[/arfans.com/]tcp://223.6.6.6
 [/arhieason.com/]tcp://223.6.6.6
 [/arhoo.com/]tcp://223.6.6.6
 [/ariesmob.com/]tcp://223.6.6.6
@@ -10186,6 +10186,7 @@
 [/bendibao.com/]tcp://223.6.6.6
 [/bendiso.com/]tcp://223.6.6.6
 [/bendiw.cc/]tcp://223.6.6.6
+[/bendizhidao.com/]tcp://223.6.6.6
 [/benduo.net/]tcp://223.6.6.6
 [/benellimotor.com/]tcp://223.6.6.6
 [/bengbeng.com/]tcp://223.6.6.6
@@ -26196,6 +26197,7 @@
 [/hi2000.net/]tcp://223.6.6.6
 [/hiaal.com/]tcp://223.6.6.6
 [/hiagr.com/]tcp://223.6.6.6
+[/hiaiabc.com/]tcp://223.6.6.6
 [/hiapk.com/]tcp://223.6.6.6
 [/hiavr.com/]tcp://223.6.6.6
 [/hibea.com/]tcp://223.6.6.6
@@ -31984,7 +31986,6 @@
 [/jpbeta.net/]tcp://223.6.6.6
 [/jpchinapress.com/]tcp://223.6.6.6
 [/jpeen.com/]tcp://223.6.6.6
-[/jpegonline.com/]tcp://223.6.6.6
 [/jperation.com/]tcp://223.6.6.6
 [/jpg.cm/]tcp://223.6.6.6
 [/jpggod.com/]tcp://223.6.6.6
@@ -38505,6 +38506,7 @@
 [/mobotap.com/]tcp://223.6.6.6
 [/mobring.co/]tcp://223.6.6.6
 [/mobrtb.com/]tcp://223.6.6.6
+[/mobsurl.com/]tcp://223.6.6.6
 [/mobtou.com/]tcp://223.6.6.6
 [/mobvoi.com/]tcp://223.6.6.6
 [/mocache.com/]tcp://223.6.6.6
@@ -38928,6 +38930,7 @@
 [/mtcsys.com/]tcp://223.6.6.6
 [/mtcx99.com/]tcp://223.6.6.6
 [/mtcxsw.com/]tcp://223.6.6.6
+[/mtcxx.com/]tcp://223.6.6.6
 [/mtdpai.com/]tcp://223.6.6.6
 [/mtdpgame.com/]tcp://223.6.6.6
 [/mtedu.com/]tcp://223.6.6.6
@@ -39295,6 +39298,7 @@
 [/mypethome.com/]tcp://223.6.6.6
 [/mypian.com/]tcp://223.6.6.6
 [/mypiao.com/]tcp://223.6.6.6
+[/mypiaojia.com/]tcp://223.6.6.6
 [/mypitaya.com/]tcp://223.6.6.6
 [/mypity.com/]tcp://223.6.6.6
 [/mypm.net/]tcp://223.6.6.6
@@ -54182,6 +54186,7 @@
 [/wdmcake.com/]tcp://223.6.6.6
 [/wdmuz.com/]tcp://223.6.6.6
 [/wdodo.com/]tcp://223.6.6.6
+[/wdomob.com/]tcp://223.6.6.6
 [/wdres.com/]tcp://223.6.6.6
 [/wdsrc.com/]tcp://223.6.6.6
 [/wdstory.com/]tcp://223.6.6.6
@@ -56815,6 +56820,7 @@
 [/xhpiano.com/]tcp://223.6.6.6
 [/xhqqt.com/]tcp://223.6.6.6
 [/xhscdn.com/]tcp://223.6.6.6
+[/xhscdn.net/]tcp://223.6.6.6
 [/xhsd.com/]tcp://223.6.6.6
 [/xhslink.com/]tcp://223.6.6.6
 [/xhsyww.com/]tcp://223.6.6.6
@@ -60154,6 +60160,7 @@
 [/ykqnl.com/]tcp://223.6.6.6
 [/ykread.com/]tcp://223.6.6.6
 [/yks365.com/]tcp://223.6.6.6
+[/yksdks.com/]tcp://223.6.6.6
 [/yksq.net/]tcp://223.6.6.6
 [/ykstarshine.com/]tcp://223.6.6.6
 [/yksuit.com/]tcp://223.6.6.6
