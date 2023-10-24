@@ -8391,6 +8391,7 @@
 [/aoomoo.com/]tcp://223.6.6.6
 [/aoongmob.com/]tcp://223.6.6.6
 [/aopayun.com/]tcp://223.6.6.6
+[/aorankj.com/]tcp://223.6.6.6
 [/aoratec.com/]tcp://223.6.6.6
 [/aoscdn.com/]tcp://223.6.6.6
 [/aoscom.net/]tcp://223.6.6.6
@@ -14610,6 +14611,7 @@
 [/clouddns.vip/]tcp://223.6.6.6
 [/clouddream.net/]tcp://223.6.6.6
 [/cloudflare-cn.com/]tcp://223.6.6.6
+[/cloudflarecn.net/]tcp://223.6.6.6
 [/cloudgap.net/]tcp://223.6.6.6
 [/cloudgfw.com/]tcp://223.6.6.6
 [/cloudgfw.net/]tcp://223.6.6.6
@@ -17666,7 +17668,6 @@
 [/dianxin.net/]tcp://223.6.6.6
 [/dianxinnews.com/]tcp://223.6.6.6
 [/dianxinos.com/]tcp://223.6.6.6
-[/dianyatc.com/]tcp://223.6.6.6
 [/dianyingjie.com/]tcp://223.6.6.6
 [/dianyingshow.com/]tcp://223.6.6.6
 [/dianyingwenxue.com/]tcp://223.6.6.6
@@ -28764,6 +28765,7 @@
 [/im577.com/]tcp://223.6.6.6
 [/im5i.com/]tcp://223.6.6.6
 [/imaccn.com/]tcp://223.6.6.6
+[/imacso.com/]tcp://223.6.6.6
 [/imaegoo.com/]tcp://223.6.6.6
 [/image-mangdiaxyz.com/]tcp://223.6.6.6
 [/imageaccelerate.com/]tcp://223.6.6.6
@@ -29042,6 +29044,7 @@
 [/initialview.com/]tcp://223.6.6.6
 [/initroot.com/]tcp://223.6.6.6
 [/inja.com/]tcp://223.6.6.6
+[/injoinic.com/]tcp://223.6.6.6
 [/inkankan.com/]tcp://223.6.6.6
 [/inkanke.com/]tcp://223.6.6.6
 [/inkcn.com/]tcp://223.6.6.6
@@ -29059,6 +29062,7 @@
 [/inmuu.com/]tcp://223.6.6.6
 [/inneed.club/]tcp://223.6.6.6
 [/innity.com/]tcp://223.6.6.6
+[/innity.net/]tcp://223.6.6.6
 [/innjia.com/]tcp://223.6.6.6
 [/innocn.com/]tcp://223.6.6.6
 [/innocomn.com/]tcp://223.6.6.6
@@ -31356,6 +31360,7 @@
 [/jnzycw.com/]tcp://223.6.6.6
 [/jo43.com/]tcp://223.6.6.6
 [/joaquinchou.com/]tcp://223.6.6.6
+[/job-cunni.com/]tcp://223.6.6.6
 [/job0768.com/]tcp://223.6.6.6
 [/job10000.com/]tcp://223.6.6.6
 [/job1001.com/]tcp://223.6.6.6
@@ -38059,6 +38064,7 @@
 [/mooreelite.com/]tcp://223.6.6.6
 [/mooreiot.com/]tcp://223.6.6.6
 [/mooreren.com/]tcp://223.6.6.6
+[/moorext.com/]tcp://223.6.6.6
 [/moowo.com/]tcp://223.6.6.6
 [/mop.com/]tcp://223.6.6.6
 [/mopaas.com/]tcp://223.6.6.6
@@ -39971,7 +39977,6 @@
 [/oceanlau.com/]tcp://223.6.6.6
 [/oceanol.com/]tcp://223.6.6.6
 [/oceanplayable.com/]tcp://223.6.6.6
-[/oceeq.com/]tcp://223.6.6.6
 [/ocideal.com/]tcp://223.6.6.6
 [/ocimg.com/]tcp://223.6.6.6
 [/oclkj.com/]tcp://223.6.6.6
@@ -46254,6 +46259,7 @@
 [/shopin.net/]tcp://223.6.6.6
 [/shopj.net/]tcp://223.6.6.6
 [/shopjyh.com/]tcp://223.6.6.6
+[/shoplazza.com/]tcp://223.6.6.6
 [/shopmaxmb.com/]tcp://223.6.6.6
 [/shopnc.net/]tcp://223.6.6.6
 [/shopplus.vip/]tcp://223.6.6.6
@@ -57410,7 +57416,6 @@
 [/xsycps.com/]tcp://223.6.6.6
 [/xsyk021.com/]tcp://223.6.6.6
 [/xsyqmztg.com/]tcp://223.6.6.6
-[/xsyushan.com/]tcp://223.6.6.6
 [/xsyx.xyz/]tcp://223.6.6.6
 [/xsyxsc.com/]tcp://223.6.6.6
 [/xszp.cc/]tcp://223.6.6.6
@@ -60559,7 +60564,6 @@
 [/ywshouyou.com/]tcp://223.6.6.6
 [/ywsoftware.com/]tcp://223.6.6.6
 [/ywtd.xyz/]tcp://223.6.6.6
-[/ywtrzm.com/]tcp://223.6.6.6
 [/ywtuchuang1.com/]tcp://223.6.6.6
 [/ywwpay.com/]tcp://223.6.6.6
 [/ywxue.com/]tcp://223.6.6.6
@@ -61710,6 +61714,7 @@
 [/zhihjf.com/]tcp://223.6.6.6
 [/zhihu.com/]tcp://223.6.6.6
 [/zhihu.dev/]tcp://223.6.6.6
+[/zhihuclub.com/]tcp://223.6.6.6
 [/zhihudsp.com/]tcp://223.6.6.6
 [/zhihuiep.com/]tcp://223.6.6.6
 [/zhihuihuiwu.com/]tcp://223.6.6.6
@@ -61846,7 +61851,6 @@
 [/zhiyinhao.com/]tcp://223.6.6.6
 [/zhiyinlou.com/]tcp://223.6.6.6
 [/zhiyinmedia.com/]tcp://223.6.6.6
-[/zhiyoo.com/]tcp://223.6.6.6
 [/zhiyoubao.com/]tcp://223.6.6.6
 [/zhiyousx.com/]tcp://223.6.6.6
 [/zhiyuan98.com/]tcp://223.6.6.6
@@ -62445,6 +62449,7 @@
 [/zjapk.com/]tcp://223.6.6.6
 [/zjaqxy.com/]tcp://223.6.6.6
 [/zjautoparts.com/]tcp://223.6.6.6
+[/zjbinya.com/]tcp://223.6.6.6
 [/zjbiz.net/]tcp://223.6.6.6
 [/zjbyte.com/]tcp://223.6.6.6
 [/zjca.org/]tcp://223.6.6.6
