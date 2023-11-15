@@ -1019,7 +1019,6 @@
 [/128sy.com/]tcp://223.6.6.6
 [/128uu.com/]tcp://223.6.6.6
 [/12988.net/]tcp://223.6.6.6
-[/12edu.com/]tcp://223.6.6.6
 [/12h5.com/]tcp://223.6.6.6
 [/12jn.com/]tcp://223.6.6.6
 [/12ky.com/]tcp://223.6.6.6
@@ -2244,7 +2243,6 @@
 [/2gdt.com/]tcp://223.6.6.6
 [/2gei.com/]tcp://223.6.6.6
 [/2google.com/]tcp://223.6.6.6
-[/2hanjutv.com/]tcp://223.6.6.6
 [/2haohr.com/]tcp://223.6.6.6
 [/2heng.xin/]tcp://223.6.6.6
 [/2hua.com/]tcp://223.6.6.6
@@ -2671,7 +2669,6 @@
 [/360uu.com/]tcp://223.6.6.6
 [/360vcloud.com/]tcp://223.6.6.6
 [/360vipshop.com/]tcp://223.6.6.6
-[/360vps.com/]tcp://223.6.6.6
 [/360vrzy.com/]tcp://223.6.6.6
 [/360wbl.com/]tcp://223.6.6.6
 [/360webcache.com/]tcp://223.6.6.6
@@ -4387,7 +4384,6 @@
 [/56ml.com/]tcp://223.6.6.6
 [/56mp.com/]tcp://223.6.6.6
 [/56pan.com/]tcp://223.6.6.6
-[/56php.com/]tcp://223.6.6.6
 [/56qq.com/]tcp://223.6.6.6
 [/56show.com/]tcp://223.6.6.6
 [/56shuku.org/]tcp://223.6.6.6
@@ -19783,7 +19779,6 @@
 [/emojiwiz.com/]tcp://223.6.6.6
 [/emqx.com/]tcp://223.6.6.6
 [/emqx.net/]tcp://223.6.6.6
-[/emrl0z.com/]tcp://223.6.6.6
 [/ems-audio.com/]tcp://223.6.6.6
 [/ems517.com/]tcp://223.6.6.6
 [/emshost.com/]tcp://223.6.6.6
@@ -33720,6 +33715,7 @@
 [/lanshanweb.com/]tcp://223.6.6.6
 [/lanshenniao.com/]tcp://223.6.6.6
 [/lanshizi.com/]tcp://223.6.6.6
+[/lansors.com/]tcp://223.6.6.6
 [/lantian-hotel.com/]tcp://223.6.6.6
 [/lantian.tv/]tcp://223.6.6.6
 [/lanting123.com/]tcp://223.6.6.6
@@ -34269,7 +34265,6 @@
 [/leweicn.com/]tcp://223.6.6.6
 [/lewen.la/]tcp://223.6.6.6
 [/lewen567.com/]tcp://223.6.6.6
-[/lewen88.com/]tcp://223.6.6.6
 [/lewenba.cc/]tcp://223.6.6.6
 [/lewenn.com/]tcp://223.6.6.6
 [/lewenxsw.com/]tcp://223.6.6.6
@@ -35290,7 +35285,6 @@
 [/lolgo.net/]tcp://223.6.6.6
 [/loli.cloud/]tcp://223.6.6.6
 [/loli.ee/]tcp://223.6.6.6
-[/loli.my/]tcp://223.6.6.6
 [/loli.wiki/]tcp://223.6.6.6
 [/loliloli.moe/]tcp://223.6.6.6
 [/loliloli.net/]tcp://223.6.6.6
@@ -38183,6 +38177,7 @@
 [/mukewang.com/]tcp://223.6.6.6
 [/mukool.com/]tcp://223.6.6.6
 [/mulazim.com/]tcp://223.6.6.6
+[/multilingual-volc.com/]tcp://223.6.6.6
 [/mumayi.com/]tcp://223.6.6.6
 [/mumu01.com/]tcp://223.6.6.6
 [/muniao.com/]tcp://223.6.6.6
@@ -42831,6 +42826,7 @@
 [/qoocc.com/]tcp://223.6.6.6
 [/qooic.com/]tcp://223.6.6.6
 [/qookar.com/]tcp://223.6.6.6
+[/qookkagames.com/]tcp://223.6.6.6
 [/qoqaoligei.com/]tcp://223.6.6.6
 [/qoqkkhy.com/]tcp://223.6.6.6
 [/qosq.com/]tcp://223.6.6.6
@@ -47969,7 +47965,6 @@
 [/sumrday.net/]tcp://223.6.6.6
 [/sumscope.com/]tcp://223.6.6.6
 [/sumsz.com/]tcp://223.6.6.6
-[/sumygg.com/]tcp://223.6.6.6
 [/sumzc.com/]tcp://223.6.6.6
 [/sun-ada.net/]tcp://223.6.6.6
 [/sun-wish.com/]tcp://223.6.6.6
@@ -51639,6 +51634,7 @@
 [/upupbug.com/]tcp://223.6.6.6
 [/upupfile.com/]tcp://223.6.6.6
 [/upupoo.com/]tcp://223.6.6.6
+[/upupview.com/]tcp://223.6.6.6
 [/upupw.net/]tcp://223.6.6.6
 [/upwardsware.com/]tcp://223.6.6.6
 [/upwith.me/]tcp://223.6.6.6
@@ -54064,7 +54060,6 @@
 [/win3000.com/]tcp://223.6.6.6
 [/win4000.com/]tcp://223.6.6.6
 [/win71234.com/]tcp://223.6.6.6
-[/win789.com/]tcp://223.6.6.6
 [/win7china.com/]tcp://223.6.6.6
 [/win7en.com/]tcp://223.6.6.6
 [/win7qijian.com/]tcp://223.6.6.6
@@ -54580,7 +54575,6 @@
 [/wowoyou.net/]tcp://223.6.6.6
 [/wowqu.cc/]tcp://223.6.6.6
 [/wowsai.com/]tcp://223.6.6.6
-[/wowys.com/]tcp://223.6.6.6
 [/woxian.com/]tcp://223.6.6.6
 [/woxiaoyun.com/]tcp://223.6.6.6
 [/woxihuan.com/]tcp://223.6.6.6
@@ -62004,6 +61998,7 @@
 [/zihaixiaochengxu.com/]tcp://223.6.6.6
 [/zihexin.net/]tcp://223.6.6.6
 [/zihu.com/]tcp://223.6.6.6
+[/zihua.li/]tcp://223.6.6.6
 [/zihua01.com/]tcp://223.6.6.6
 [/zihuazhijia.com/]tcp://223.6.6.6
 [/ziisp.com/]tcp://223.6.6.6
