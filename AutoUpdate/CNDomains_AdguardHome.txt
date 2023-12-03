@@ -114,6 +114,7 @@
 [/021fenglei.com/]tcp://223.6.6.6
 [/021fx.com/]tcp://223.6.6.6
 [/021gjhb.com/]tcp://223.6.6.6
+[/021hunbohui.com/]tcp://223.6.6.6
 [/021ja.com/]tcp://223.6.6.6
 [/021jingwei.com/]tcp://223.6.6.6
 [/021jingwu.com/]tcp://223.6.6.6
@@ -835,7 +836,6 @@
 [/114zpw.com/]tcp://223.6.6.6
 [/114zw.org/]tcp://223.6.6.6
 [/115.com/]tcp://223.6.6.6
-[/11544.com/]tcp://223.6.6.6
 [/1155871.com/]tcp://223.6.6.6
 [/1156.com/]tcp://223.6.6.6
 [/1156dns.com/]tcp://223.6.6.6
@@ -10221,6 +10221,7 @@
 [/bihu.com/]tcp://223.6.6.6
 [/bihubao.com/]tcp://223.6.6.6
 [/biikan.com/]tcp://223.6.6.6
+[/biioii.com/]tcp://223.6.6.6
 [/biji13.com/]tcp://223.6.6.6
 [/bijiago.com/]tcp://223.6.6.6
 [/bijiagou.com/]tcp://223.6.6.6
@@ -38328,6 +38329,7 @@
 [/myoldtime.com/]tcp://223.6.6.6
 [/myopenwrt.org/]tcp://223.6.6.6
 [/myoppo.com/]tcp://223.6.6.6
+[/myorbita.net/]tcp://223.6.6.6
 [/myottad.com/]tcp://223.6.6.6
 [/myouth.net/]tcp://223.6.6.6
 [/myp2pch.net/]tcp://223.6.6.6
@@ -41334,7 +41336,6 @@
 [/poppur.com/]tcp://223.6.6.6
 [/popqiu.com/]tcp://223.6.6.6
 [/popsoft.com/]tcp://223.6.6.6
-[/popu.org/]tcp://223.6.6.6
 [/popumed.com/]tcp://223.6.6.6
 [/poputar.com/]tcp://223.6.6.6
 [/popziti.com/]tcp://223.6.6.6
@@ -51560,6 +51561,7 @@
 [/utepo.com/]tcp://223.6.6.6
 [/utermux.dev/]tcp://223.6.6.6
 [/utfinancing.com/]tcp://223.6.6.6
+[/utgd.net/]tcp://223.6.6.6
 [/uthinks.com/]tcp://223.6.6.6
 [/utiankong.com/]tcp://223.6.6.6
 [/utogame.com/]tcp://223.6.6.6
@@ -54712,6 +54714,7 @@
 [/wumii.com/]tcp://223.6.6.6
 [/wumii.tv/]tcp://223.6.6.6
 [/wuming.com/]tcp://223.6.6.6
+[/wupfrl.com/]tcp://223.6.6.6
 [/wuqing.cc/]tcp://223.6.6.6
 [/wuqiong.info/]tcp://223.6.6.6
 [/wuqishike.com/]tcp://223.6.6.6
@@ -60221,7 +60224,6 @@
 [/yytek.com/]tcp://223.6.6.6
 [/yytingli.com/]tcp://223.6.6.6
 [/yyuap.com/]tcp://223.6.6.6
-[/yyuasa.com/]tcp://223.6.6.6
 [/yywlsj.com/]tcp://223.6.6.6
 [/yywords.com/]tcp://223.6.6.6
 [/yywt.online/]tcp://223.6.6.6
