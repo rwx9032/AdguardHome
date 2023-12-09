@@ -4345,7 +4345,6 @@
 [/56dagong.com/]tcp://223.6.6.6
 [/56dichan.com/]tcp://223.6.6.6
 [/56dr.com/]tcp://223.6.6.6
-[/56en.com/]tcp://223.6.6.6
 [/56ggb.com/]tcp://223.6.6.6
 [/56gk.com/]tcp://223.6.6.6
 [/56golf.com/]tcp://223.6.6.6
@@ -10919,7 +10918,6 @@
 [/bobcfc.com/]tcp://223.6.6.6
 [/bobcoder.cc/]tcp://223.6.6.6
 [/bobdirectbank.com/]tcp://223.6.6.6
-[/bobidc.com/]tcp://223.6.6.6
 [/boblog.com/]tcp://223.6.6.6
 [/bobo.com/]tcp://223.6.6.6
 [/bobopic.com/]tcp://223.6.6.6
@@ -16112,7 +16110,6 @@
 [/cuekit.com/]tcp://223.6.6.6
 [/cuelog.com/]tcp://223.6.6.6
 [/cufeyk.com/]tcp://223.6.6.6
-[/cufou.com/]tcp://223.6.6.6
 [/cug2313.com/]tcp://223.6.6.6
 [/cugstore.com/]tcp://223.6.6.6
 [/cuihuan.net/]tcp://223.6.6.6
@@ -18246,7 +18243,6 @@
 [/doudou.in/]tcp://223.6.6.6
 [/doudou3.com/]tcp://223.6.6.6
 [/doudouad.com/]tcp://223.6.6.6
-[/doudouba.com/]tcp://223.6.6.6
 [/doudoubird.com/]tcp://223.6.6.6
 [/doufan.tv/]tcp://223.6.6.6
 [/doufl.com/]tcp://223.6.6.6
@@ -21995,7 +21991,6 @@
 [/gai.net/]tcp://223.6.6.6
 [/gaiamount.com/]tcp://223.6.6.6
 [/gaibar.com/]tcp://223.6.6.6
-[/gain-coupon.com/]tcp://223.6.6.6
 [/gainda.net/]tcp://223.6.6.6
 [/gainet.com/]tcp://223.6.6.6
 [/gaini.net/]tcp://223.6.6.6
@@ -23515,7 +23510,6 @@
 [/guangwangye.com/]tcp://223.6.6.6
 [/guangxi910.com/]tcp://223.6.6.6
 [/guangxigrc.com/]tcp://223.6.6.6
-[/guangxiyou.com/]tcp://223.6.6.6
 [/guangyinglvxing.com/]tcp://223.6.6.6
 [/guangyv.com/]tcp://223.6.6.6
 [/guangzhitui.com/]tcp://223.6.6.6
@@ -27596,6 +27590,7 @@
 [/i-lewan.com/]tcp://223.6.6.6
 [/i-m.dev/]tcp://223.6.6.6
 [/i-manji.com/]tcp://223.6.6.6
+[/i-markit.com/]tcp://223.6.6.6
 [/i-matcher.com/]tcp://223.6.6.6
 [/i-md.com/]tcp://223.6.6.6
 [/i-modec.com/]tcp://223.6.6.6
@@ -28769,7 +28764,6 @@
 [/ingkee.com/]tcp://223.6.6.6
 [/ingping.com/]tcp://223.6.6.6
 [/inhdd.com/]tcp://223.6.6.6
-[/inhe.net/]tcp://223.6.6.6
 [/inhuawei.com/]tcp://223.6.6.6
 [/ini3e.com/]tcp://223.6.6.6
 [/inibiru.com/]tcp://223.6.6.6
@@ -37153,7 +37147,6 @@
 [/milvzn.com/]tcp://223.6.6.6
 [/mima.club/]tcp://223.6.6.6
 [/mimgame.com/]tcp://223.6.6.6
-[/mimi456.com/]tcp://223.6.6.6
 [/mimi518.com/]tcp://223.6.6.6
 [/mimidi.com/]tcp://223.6.6.6
 [/mimiteng.com/]tcp://223.6.6.6
@@ -37582,7 +37575,6 @@
 [/moeking.me/]tcp://223.6.6.6
 [/moeli123.com/]tcp://223.6.6.6
 [/moemiao.net/]tcp://223.6.6.6
-[/moerkeji.net/]tcp://223.6.6.6
 [/moerlong.com/]tcp://223.6.6.6
 [/moetu.org/]tcp://223.6.6.6
 [/moetuji.com/]tcp://223.6.6.6
@@ -38952,7 +38944,6 @@
 [/ni8.com/]tcp://223.6.6.6
 [/ni93.com/]tcp://223.6.6.6
 [/nianbin.com/]tcp://223.6.6.6
-[/niandai.org/]tcp://223.6.6.6
 [/nianhua.plus/]tcp://223.6.6.6
 [/niankawang.com/]tcp://223.6.6.6
 [/nianzhi.cc/]tcp://223.6.6.6
@@ -42094,7 +42085,6 @@
 [/qianyuangx.com/]tcp://223.6.6.6
 [/qianyue999.com/]tcp://223.6.6.6
 [/qianyuewenhua.xyz/]tcp://223.6.6.6
-[/qianyunyingyong.com/]tcp://223.6.6.6
 [/qianyuwang.com/]tcp://223.6.6.6
 [/qianzhan.com/]tcp://223.6.6.6
 [/qianzhan123.com/]tcp://223.6.6.6
@@ -45626,7 +45616,6 @@
 [/shiciyun.com/]tcp://223.6.6.6
 [/shida66.com/]tcp://223.6.6.6
 [/shidaedu.vip/]tcp://223.6.6.6
-[/shidai.tv/]tcp://223.6.6.6
 [/shidapx.com/]tcp://223.6.6.6
 [/shidastudy.com/]tcp://223.6.6.6
 [/shidi.org/]tcp://223.6.6.6
@@ -45723,6 +45712,7 @@
 [/shiqidu.com/]tcp://223.6.6.6
 [/shiqu.com/]tcp://223.6.6.6
 [/shiqutech.com/]tcp://223.6.6.6
+[/shiritianchengtech.com/]tcp://223.6.6.6
 [/shishagame.com/]tcp://223.6.6.6
 [/shishangfengyun.com/]tcp://223.6.6.6
 [/shishihuihui.com/]tcp://223.6.6.6
@@ -45869,6 +45859,7 @@
 [/shoujimi.com/]tcp://223.6.6.6
 [/shoujitouping.com/]tcp://223.6.6.6
 [/shoujiwan.com/]tcp://223.6.6.6
+[/shoukala.com/]tcp://223.6.6.6
 [/shouliwang.com/]tcp://223.6.6.6
 [/shoumizhibo.com/]tcp://223.6.6.6
 [/shoumm.com/]tcp://223.6.6.6
@@ -56571,6 +56562,7 @@
 [/xlcidc.com/]tcp://223.6.6.6
 [/xlctyd.com/]tcp://223.6.6.6
 [/xlcz.com/]tcp://223.6.6.6
+[/xldlive.com/]tcp://223.6.6.6
 [/xlgao.com/]tcp://223.6.6.6
 [/xlgogo.com/]tcp://223.6.6.6
 [/xlgtx.com/]tcp://223.6.6.6
@@ -56938,7 +56930,6 @@
 [/xu1s.com/]tcp://223.6.6.6
 [/xuanad.com/]tcp://223.6.6.6
 [/xuanba.com/]tcp://223.6.6.6
-[/xuanbar.com/]tcp://223.6.6.6
 [/xuancaizi.com/]tcp://223.6.6.6
 [/xuanceo.com/]tcp://223.6.6.6
 [/xuancheng.org/]tcp://223.6.6.6
