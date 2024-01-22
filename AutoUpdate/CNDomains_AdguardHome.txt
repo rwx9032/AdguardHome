@@ -975,7 +975,6 @@
 [/125.la/]tcp://223.6.6.6
 [/12530.com/]tcp://223.6.6.6
 [/12580.com/]tcp://223.6.6.6
-[/12580.net/]tcp://223.6.6.6
 [/12580.tv/]tcp://223.6.6.6
 [/12580study.com/]tcp://223.6.6.6
 [/125edu.com/]tcp://223.6.6.6
@@ -1100,7 +1099,6 @@
 [/13yx.com/]tcp://223.6.6.6
 [/140414.com/]tcp://223.6.6.6
 [/1415926.com/]tcp://223.6.6.6
-[/1415926.mobi/]tcp://223.6.6.6
 [/14294.com/]tcp://223.6.6.6
 [/14498.com/]tcp://223.6.6.6
 [/1451cn.com/]tcp://223.6.6.6
@@ -18575,6 +18573,7 @@
 [/duobei.com/]tcp://223.6.6.6
 [/duobeiyun.net/]tcp://223.6.6.6
 [/duobiji.com/]tcp://223.6.6.6
+[/duocaish.com/]tcp://223.6.6.6
 [/duocaitou.com/]tcp://223.6.6.6
 [/duochang.cc/]tcp://223.6.6.6
 [/duodaa.com/]tcp://223.6.6.6
@@ -21200,7 +21199,6 @@
 [/fl365.com/]tcp://223.6.6.6
 [/fl5.co/]tcp://223.6.6.6
 [/flachina.com/]tcp://223.6.6.6
-[/flacro.me/]tcp://223.6.6.6
 [/flamecdn.com/]tcp://223.6.6.6
 [/flamesky.org/]tcp://223.6.6.6
 [/flamingcold.com/]tcp://223.6.6.6
@@ -29827,7 +29825,6 @@
 [/jdedu.net/]tcp://223.6.6.6
 [/jdemall.com/]tcp://223.6.6.6
 [/jdfcloud.com/]tcp://223.6.6.6
-[/jdfhq.com/]tcp://223.6.6.6
 [/jdfschool.com/]tcp://223.6.6.6
 [/jdgogo.com/]tcp://223.6.6.6
 [/jdgslb.com/]tcp://223.6.6.6
@@ -38974,7 +38971,6 @@
 [/niceimg.net/]tcp://223.6.6.6
 [/niceisp.com/]tcp://223.6.6.6
 [/nicekid.com/]tcp://223.6.6.6
-[/nicekodi.xyz/]tcp://223.6.6.6
 [/nicelabel.cc/]tcp://223.6.6.6
 [/nicelinks.site/]tcp://223.6.6.6
 [/niceloo.com/]tcp://223.6.6.6
@@ -41606,6 +41602,7 @@
 [/puh3.com/]tcp://223.6.6.6
 [/puhuacapital.com/]tcp://223.6.6.6
 [/puhuahui.com/]tcp://223.6.6.6
+[/puidc.com/]tcp://223.6.6.6
 [/puiedu.com/]tcp://223.6.6.6
 [/pujia8.com/]tcp://223.6.6.6
 [/pujiaba.com/]tcp://223.6.6.6
@@ -44247,7 +44244,6 @@
 [/rzok.net/]tcp://223.6.6.6
 [/rzspx.com/]tcp://223.6.6.6
 [/rzszp.com/]tcp://223.6.6.6
-[/rzwssy.com/]tcp://223.6.6.6
 [/rzx.me/]tcp://223.6.6.6
 [/rzzyfw.com/]tcp://223.6.6.6
 [/s-02.com/]tcp://223.6.6.6
@@ -46219,6 +46215,7 @@
 [/shyihuoh.com/]tcp://223.6.6.6
 [/shykx.com/]tcp://223.6.6.6
 [/shykz123456.com/]tcp://223.6.6.6
+[/shyojin.com/]tcp://223.6.6.6
 [/shyonghui.xyz/]tcp://223.6.6.6
 [/shyongzeng.com/]tcp://223.6.6.6
 [/shyouai.com/]tcp://223.6.6.6
@@ -47052,6 +47049,7 @@
 [/sokutu.com/]tcp://223.6.6.6
 [/solarbe.com/]tcp://223.6.6.6
 [/solaridc.com/]tcp://223.6.6.6
+[/soldeazy.com/]tcp://223.6.6.6
 [/soldierstory-toys.com/]tcp://223.6.6.6
 [/soleilneon.com/]tcp://223.6.6.6
 [/solepic.com/]tcp://223.6.6.6
@@ -58951,6 +58949,7 @@
 [/yongheyinian.com/]tcp://223.6.6.6
 [/yonghongtech.com/]tcp://223.6.6.6
 [/yonghuivip.com/]tcp://223.6.6.6
+[/yongjindl.com/]tcp://223.6.6.6
 [/yongkao.com/]tcp://223.6.6.6
 [/yongqianbao.com/]tcp://223.6.6.6
 [/yongqiaonews.com/]tcp://223.6.6.6
