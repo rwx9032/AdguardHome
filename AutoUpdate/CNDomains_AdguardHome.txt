@@ -43,7 +43,6 @@
 [/0088dns.com/]tcp://223.6.6.6
 [/008gj.com/]tcp://223.6.6.6
 [/0098118.com/]tcp://223.6.6.6
-[/0099524.com/]tcp://223.6.6.6
 [/009y.com/]tcp://223.6.6.6
 [/00bx.com/]tcp://223.6.6.6
 [/00cdn.com/]tcp://223.6.6.6
@@ -2054,7 +2053,6 @@
 [/22edu.com/]tcp://223.6.6.6
 [/22hd.com/]tcp://223.6.6.6
 [/22ja.com/]tcp://223.6.6.6
-[/22k9.com/]tcp://223.6.6.6
 [/22kk.com/]tcp://223.6.6.6
 [/22lianmeng.com/]tcp://223.6.6.6
 [/22lrc.com/]tcp://223.6.6.6
@@ -3316,7 +3314,6 @@
 [/4366ga.com/]tcp://223.6.6.6
 [/4366pk.com/]tcp://223.6.6.6
 [/4377.com/]tcp://223.6.6.6
-[/4377info.com/]tcp://223.6.6.6
 [/437zhifu.com/]tcp://223.6.6.6
 [/4393.cc/]tcp://223.6.6.6
 [/4399-xyx.com/]tcp://223.6.6.6
@@ -5781,6 +5778,7 @@
 [/81tt.net/]tcp://223.6.6.6
 [/81xy.com/]tcp://223.6.6.6
 [/81xz.com/]tcp://223.6.6.6
+[/81zhongwenx.com/]tcp://223.6.6.6
 [/81zw.com/]tcp://223.6.6.6
 [/8203app.com/]tcp://223.6.6.6
 [/8211.com/]tcp://223.6.6.6
@@ -6793,6 +6791,7 @@
 [/99sky.com/]tcp://223.6.6.6
 [/99sun.com/]tcp://223.6.6.6
 [/99sushe.com/]tcp://223.6.6.6
+[/99uri.com/]tcp://223.6.6.6
 [/99vf.com/]tcp://223.6.6.6
 [/99weidu99.ltd/]tcp://223.6.6.6
 [/99weiqi.com/]tcp://223.6.6.6
@@ -7216,6 +7215,7 @@
 [/adebibi.com/]tcp://223.6.6.6
 [/adesignbrasil.com/]tcp://223.6.6.6
 [/adesk.com/]tcp://223.6.6.6
+[/adeskpro.com/]tcp://223.6.6.6
 [/adexplain.com/]tcp://223.6.6.6
 [/adfcf.com/]tcp://223.6.6.6
 [/adflying.com/]tcp://223.6.6.6
@@ -8610,7 +8610,6 @@
 [/aowei.com/]tcp://223.6.6.6
 [/aowenmarketing.com/]tcp://223.6.6.6
 [/aoxintong.com/]tcp://223.6.6.6
-[/aoxtv.com/]tcp://223.6.6.6
 [/aoya-hk.com/]tcp://223.6.6.6
 [/aoyanchang.com/]tcp://223.6.6.6
 [/aoyangzg.com/]tcp://223.6.6.6
@@ -9245,6 +9244,8 @@
 [/awsdns-cn-03.biz/]tcp://223.6.6.6
 [/awsdns-cn-05.net/]tcp://223.6.6.6
 [/awsdns-cn-10.com/]tcp://223.6.6.6
+[/awsdns-cn-14.biz/]tcp://223.6.6.6
+[/awsdns-cn-17.net/]tcp://223.6.6.6
 [/awsdns-cn-19.net/]tcp://223.6.6.6
 [/awsdns-cn-21.biz/]tcp://223.6.6.6
 [/awsdns-cn-24.com/]tcp://223.6.6.6
@@ -9256,9 +9257,11 @@
 [/awsdns-cn-40.biz/]tcp://223.6.6.6
 [/awsdns-cn-40.net/]tcp://223.6.6.6
 [/awsdns-cn-41.biz/]tcp://223.6.6.6
+[/awsdns-cn-44.net/]tcp://223.6.6.6
 [/awsdns-cn-47.biz/]tcp://223.6.6.6
 [/awsdns-cn-47.com/]tcp://223.6.6.6
 [/awsdns-cn-48.com/]tcp://223.6.6.6
+[/awsdns-cn-50.net/]tcp://223.6.6.6
 [/awsdns-cn-52.biz/]tcp://223.6.6.6
 [/awsdns-cn-52.net/]tcp://223.6.6.6
 [/awsdns-cn-57.com/]tcp://223.6.6.6
@@ -9744,6 +9747,7 @@
 [/banjiamao.com/]tcp://223.6.6.6
 [/banjixiaoguanjia.com/]tcp://223.6.6.6
 [/banjuanshu.com/]tcp://223.6.6.6
+[/bank-139.com/]tcp://223.6.6.6
 [/bank-of-china.com/]tcp://223.6.6.6
 [/bankalliance.net/]tcp://223.6.6.6
 [/bankcomm.com.mo/]tcp://223.6.6.6
@@ -10840,6 +10844,7 @@
 [/biteedu.com/]tcp://223.6.6.6
 [/bitekou.com/]tcp://223.6.6.6
 [/bitell.com/]tcp://223.6.6.6
+[/bitenn.com/]tcp://223.6.6.6
 [/bitett.com/]tcp://223.6.6.6
 [/bitgo.cc/]tcp://223.6.6.6
 [/bitgo.net/]tcp://223.6.6.6
@@ -11775,7 +11780,6 @@
 [/btvcd.net/]tcp://223.6.6.6
 [/btwob.net/]tcp://223.6.6.6
 [/btwuji.com/]tcp://223.6.6.6
-[/btxl8.com/]tcp://223.6.6.6
 [/btydjxc.com/]tcp://223.6.6.6
 [/btyou.com/]tcp://223.6.6.6
 [/btzhcc.com/]tcp://223.6.6.6
@@ -12012,6 +12016,7 @@
 [/bytedance.com/]tcp://223.6.6.6
 [/bytedance.net/]tcp://223.6.6.6
 [/bytedanceapi.com/]tcp://223.6.6.6
+[/bytedcdn.com/]tcp://223.6.6.6
 [/bytedns.com/]tcp://223.6.6.6
 [/bytedns.net/]tcp://223.6.6.6
 [/bytedns1.com/]tcp://223.6.6.6
@@ -14094,6 +14099,7 @@
 [/chinahightech.com/]tcp://223.6.6.6
 [/chinahighto.com/]tcp://223.6.6.6
 [/chinahighway.com/]tcp://223.6.6.6
+[/chinahiron.ltd/]tcp://223.6.6.6
 [/chinahiyou.com/]tcp://223.6.6.6
 [/chinahkidc.net/]tcp://223.6.6.6
 [/chinahky.com/]tcp://223.6.6.6
@@ -15481,7 +15487,6 @@
 [/cnfish.com/]tcp://223.6.6.6
 [/cnfisher.com/]tcp://223.6.6.6
 [/cnfla.com/]tcp://223.6.6.6
-[/cnfmp.net/]tcp://223.6.6.6
 [/cnfol.com/]tcp://223.6.6.6
 [/cnfolimg.com/]tcp://223.6.6.6
 [/cnfood.com/]tcp://223.6.6.6
@@ -16177,7 +16182,6 @@
 [/copyswisswatches.com/]tcp://223.6.6.6
 [/copywatchstyle.com/]tcp://223.6.6.6
 [/cor-games.com/]tcp://223.6.6.6
-[/corachic.com/]tcp://223.6.6.6
 [/corebai.com/]tcp://223.6.6.6
 [/coreesports.net/]tcp://223.6.6.6
 [/coreldrawchina.com/]tcp://223.6.6.6
@@ -16844,6 +16848,7 @@
 [/cuiuc.com/]tcp://223.6.6.6
 [/cuiweijuxing.com/]tcp://223.6.6.6
 [/cuiyongjian.com/]tcp://223.6.6.6
+[/cuizhi.me/]tcp://223.6.6.6
 [/cujs.com/]tcp://223.6.6.6
 [/cuketest.com/]tcp://223.6.6.6
 [/cul-studies.com/]tcp://223.6.6.6
@@ -18207,7 +18212,6 @@
 [/diamondfsd.com/]tcp://223.6.6.6
 [/dian-ai.com/]tcp://223.6.6.6
 [/dian-stable.com/]tcp://223.6.6.6
-[/dian-ying.com/]tcp://223.6.6.6
 [/dian.so/]tcp://223.6.6.6
 [/dian123.com/]tcp://223.6.6.6
 [/dian234.com/]tcp://223.6.6.6
@@ -19938,6 +19942,7 @@
 [/eastdrama.com/]tcp://223.6.6.6
 [/eastdushi.com/]tcp://223.6.6.6
 [/easteat.com/]tcp://223.6.6.6
+[/eastecloud.com/]tcp://223.6.6.6
 [/eastent.com/]tcp://223.6.6.6
 [/easternalong.com/]tcp://223.6.6.6
 [/eastforever.com/]tcp://223.6.6.6
@@ -20610,7 +20615,6 @@
 [/emeixs.com/]tcp://223.6.6.6
 [/emepu.com/]tcp://223.6.6.6
 [/emilechouriet.com/]tcp://223.6.6.6
-[/emilhk.com/]tcp://223.6.6.6
 [/emjob.com/]tcp://223.6.6.6
 [/emlinix.com/]tcp://223.6.6.6
 [/emodor.com/]tcp://223.6.6.6
@@ -20830,6 +20834,7 @@
 [/erongdu.com/]tcp://223.6.6.6
 [/erpang.cc/]tcp://223.6.6.6
 [/erpcoo.com/]tcp://223.6.6.6
+[/erpingge.com/]tcp://223.6.6.6
 [/erro.life/]tcp://223.6.6.6
 [/ersantian.com/]tcp://223.6.6.6
 [/ershicimi.com/]tcp://223.6.6.6
@@ -21458,6 +21463,7 @@
 [/faniuwenda.com/]tcp://223.6.6.6
 [/fanjianhome.com/]tcp://223.6.6.6
 [/fanjinyan.com/]tcp://223.6.6.6
+[/fanjunyang.zone/]tcp://223.6.6.6
 [/fankebang.com/]tcp://223.6.6.6
 [/fankhome.com/]tcp://223.6.6.6
 [/fanli.com/]tcp://223.6.6.6
@@ -22148,6 +22154,7 @@
 [/fjhxcaee.com/]tcp://223.6.6.6
 [/fjii.com/]tcp://223.6.6.6
 [/fjjcjy.com/]tcp://223.6.6.6
+[/fjjltgyl.com/]tcp://223.6.6.6
 [/fjjsp01.com/]tcp://223.6.6.6
 [/fjjszg.com/]tcp://223.6.6.6
 [/fjjyt.net/]tcp://223.6.6.6
@@ -24714,6 +24721,7 @@
 [/guiqv.com/]tcp://223.6.6.6
 [/guitarpro.cc/]tcp://223.6.6.6
 [/guixue.com/]tcp://223.6.6.6
+[/guiy208.xyz/]tcp://223.6.6.6
 [/guizeco.com/]tcp://223.6.6.6
 [/guizheng.net/]tcp://223.6.6.6
 [/guizumeimei.com/]tcp://223.6.6.6
@@ -24878,6 +24886,7 @@
 [/gvacdn.com/]tcp://223.6.6.6
 [/gvi-tech.com/]tcp://223.6.6.6
 [/gvlocalization.com/]tcp://223.6.6.6
+[/gvoiceplat.com/]tcp://223.6.6.6
 [/gw-ec.com/]tcp://223.6.6.6
 [/gw.craft.moe/]tcp://223.6.6.6
 [/gw2sc.com/]tcp://223.6.6.6
@@ -25391,6 +25400,7 @@
 [/haigui001.com/]tcp://223.6.6.6
 [/haiguime.com/]tcp://223.6.6.6
 [/haihaiyu.com/]tcp://223.6.6.6
+[/haihetour.com/]tcp://223.6.6.6
 [/haihuishou.com/]tcp://223.6.6.6
 [/haijia.org/]tcp://223.6.6.6
 [/haijiangzx.com/]tcp://223.6.6.6
@@ -25601,7 +25611,6 @@
 [/hannor.com/]tcp://223.6.6.6
 [/hannto.com/]tcp://223.6.6.6
 [/hansenshops.com/]tcp://223.6.6.6
-[/hanshijiaoye.com/]tcp://223.6.6.6
 [/hanshow.com/]tcp://223.6.6.6
 [/hansight.com/]tcp://223.6.6.6
 [/hansiji.com/]tcp://223.6.6.6
@@ -26008,6 +26017,7 @@
 [/hbcydlqc.com/]tcp://223.6.6.6
 [/hbdangyang.com/]tcp://223.6.6.6
 [/hbddrn.com/]tcp://223.6.6.6
+[/hbdjk.com/]tcp://223.6.6.6
 [/hbdmia.com/]tcp://223.6.6.6
 [/hbdtjqj.com/]tcp://223.6.6.6
 [/hbdx-kdyy.com/]tcp://223.6.6.6
@@ -26168,7 +26178,6 @@
 [/hbynet.net/]tcp://223.6.6.6
 [/hbyoyo.com/]tcp://223.6.6.6
 [/hbyscn.com/]tcp://223.6.6.6
-[/hbyspx.com/]tcp://223.6.6.6
 [/hbzaxh.com/]tcp://223.6.6.6
 [/hbzbw.com/]tcp://223.6.6.6
 [/hbzgjx.com/]tcp://223.6.6.6
@@ -27142,7 +27151,6 @@
 [/hmsce.org/]tcp://223.6.6.6
 [/hmsem.com/]tcp://223.6.6.6
 [/hmsemi.com/]tcp://223.6.6.6
-[/hmseo.net/]tcp://223.6.6.6
 [/hmskw.com/]tcp://223.6.6.6
 [/hmsxw.com/]tcp://223.6.6.6
 [/hmszkj.com/]tcp://223.6.6.6
@@ -30738,7 +30746,6 @@
 [/itdai.com/]tcp://223.6.6.6
 [/itdaogou.com/]tcp://223.6.6.6
 [/itdcw.com/]tcp://223.6.6.6
-[/itdiffer.com/]tcp://223.6.6.6
 [/itdks.com/]tcp://223.6.6.6
 [/itdog.com/]tcp://223.6.6.6
 [/itdog.plus/]tcp://223.6.6.6
@@ -30834,7 +30841,6 @@
 [/itppi.org/]tcp://223.6.6.6
 [/itpub.net/]tcp://223.6.6.6
 [/itpux.com/]tcp://223.6.6.6
-[/itpux.net/]tcp://223.6.6.6
 [/itpwd.com/]tcp://223.6.6.6
 [/itrace.cc/]tcp://223.6.6.6
 [/itrid.com/]tcp://223.6.6.6
@@ -33396,6 +33402,7 @@
 [/jxg866.com/]tcp://223.6.6.6
 [/jxgcxy.net/]tcp://223.6.6.6
 [/jxgdw.com/]tcp://223.6.6.6
+[/jxgtzxc.com/]tcp://223.6.6.6
 [/jxhyshiye.com/]tcp://223.6.6.6
 [/jxiaolan.com/]tcp://223.6.6.6
 [/jxicloud.com/]tcp://223.6.6.6
@@ -33566,6 +33573,7 @@
 [/jzsgzmhjyxgs.com/]tcp://223.6.6.6
 [/jzsjyksy.com/]tcp://223.6.6.6
 [/jzsousuo.com/]tcp://223.6.6.6
+[/jzsszyjzx.com/]tcp://223.6.6.6
 [/jzsxinyudianqi.com/]tcp://223.6.6.6
 [/jzsyishu.com/]tcp://223.6.6.6
 [/jzszdq.com/]tcp://223.6.6.6
@@ -33715,7 +33723,6 @@
 [/kalazan.com/]tcp://223.6.6.6
 [/kalcaddle.com/]tcp://223.6.6.6
 [/kalegou.com/]tcp://223.6.6.6
-[/kalingling.com/]tcp://223.6.6.6
 [/kaluli.com/]tcp://223.6.6.6
 [/kamenwang.com/]tcp://223.6.6.6
 [/kamidm.com/]tcp://223.6.6.6
@@ -34404,6 +34411,7 @@
 [/kmqsaq.com/]tcp://223.6.6.6
 [/kms.pub/]tcp://223.6.6.6
 [/kmsfybjy.com/]tcp://223.6.6.6
+[/kmvideo.cc/]tcp://223.6.6.6
 [/kmw.cc/]tcp://223.6.6.6
 [/kmw.com/]tcp://223.6.6.6
 [/kmway.com/]tcp://223.6.6.6
@@ -35909,7 +35917,6 @@
 [/lex.download.prss.microsoft.com/]tcp://223.6.6.6
 [/lexar.com/]tcp://223.6.6.6
 [/lexiang-asset.com/]tcp://223.6.6.6
-[/lexiangjian.com/]tcp://223.6.6.6
 [/lexiangla.com/]tcp://223.6.6.6
 [/lexiangzuji.com/]tcp://223.6.6.6
 [/lexin.com/]tcp://223.6.6.6
@@ -36547,6 +36554,7 @@
 [/lishiip.com/]tcp://223.6.6.6
 [/lishiming.net/]tcp://223.6.6.6
 [/lishiren.com/]tcp://223.6.6.6
+[/lishirenzhi.com/]tcp://223.6.6.6
 [/lishixinzhi.com/]tcp://223.6.6.6
 [/lishizhishi.com/]tcp://223.6.6.6
 [/lishouhong.com/]tcp://223.6.6.6
@@ -36821,6 +36829,7 @@
 [/lltllt.com/]tcp://223.6.6.6
 [/lltoken.com/]tcp://223.6.6.6
 [/llttc.com/]tcp://223.6.6.6
+[/llxedu.com/]tcp://223.6.6.6
 [/llxzu.com/]tcp://223.6.6.6
 [/llycloud.com/]tcp://223.6.6.6
 [/llzg.com/]tcp://223.6.6.6
@@ -37174,7 +37183,6 @@
 [/loveuav.com/]tcp://223.6.6.6
 [/lovev.com/]tcp://223.6.6.6
 [/lovewith.me/]tcp://223.6.6.6
-[/lovewj.info/]tcp://223.6.6.6
 [/lovfp.com/]tcp://223.6.6.6
 [/lovgiin.com/]tcp://223.6.6.6
 [/lovology.com/]tcp://223.6.6.6
@@ -37347,6 +37355,7 @@
 [/lucky8k.com/]tcp://223.6.6.6
 [/luckyair.net/]tcp://223.6.6.6
 [/luckycoffee.com/]tcp://223.6.6.6
+[/luckyop.com/]tcp://223.6.6.6
 [/luckyxp.net/]tcp://223.6.6.6
 [/lucode.net/]tcp://223.6.6.6
 [/lucoder.com/]tcp://223.6.6.6
@@ -42764,7 +42773,6 @@
 [/pcitc.com/]tcp://223.6.6.6
 [/pcme.info/]tcp://223.6.6.6
 [/pcmgr-global.com/]tcp://223.6.6.6
-[/pcmiao.com/]tcp://223.6.6.6
 [/pcmoe.net/]tcp://223.6.6.6
 [/pcoic.com/]tcp://223.6.6.6
 [/pcoof.com/]tcp://223.6.6.6
@@ -43057,7 +43065,6 @@
 [/phyt88.com/]tcp://223.6.6.6
 [/phyy.com/]tcp://223.6.6.6
 [/pi7.com/]tcp://223.6.6.6
-[/pianhd.com/]tcp://223.6.6.6
 [/pianohl.com/]tcp://223.6.6.6
 [/pianona.com/]tcp://223.6.6.6
 [/pianoun.com/]tcp://223.6.6.6
@@ -43162,6 +43169,7 @@
 [/pindu88.com/]tcp://223.6.6.6
 [/pinduoduo.com/]tcp://223.6.6.6
 [/pinduoduo.net/]tcp://223.6.6.6
+[/pinelephant.com/]tcp://223.6.6.6
 [/pineprint.com/]tcp://223.6.6.6
 [/pinfangw.com/]tcp://223.6.6.6
 [/ping-jia.net/]tcp://223.6.6.6
@@ -44880,7 +44888,6 @@
 [/qll-times.com/]tcp://223.6.6.6
 [/qlmoney.com/]tcp://223.6.6.6
 [/qlotc.net/]tcp://223.6.6.6
-[/qlpw.net/]tcp://223.6.6.6
 [/qlrc.com/]tcp://223.6.6.6
 [/qls.fun/]tcp://223.6.6.6
 [/qlspx.com/]tcp://223.6.6.6
@@ -45272,6 +45279,7 @@
 [/queniucf.com/]tcp://223.6.6.6
 [/queniuck.com/]tcp://223.6.6.6
 [/queniucl.com/]tcp://223.6.6.6
+[/queniuco.com/]tcp://223.6.6.6
 [/queniudns.com/]tcp://223.6.6.6
 [/queniudns.net/]tcp://223.6.6.6
 [/queniufm.com/]tcp://223.6.6.6
@@ -45281,6 +45289,7 @@
 [/queniukr.com/]tcp://223.6.6.6
 [/queniukt.com/]tcp://223.6.6.6
 [/queniukw.com/]tcp://223.6.6.6
+[/queniulf.com/]tcp://223.6.6.6
 [/queniupl.com/]tcp://223.6.6.6
 [/queniuqy.com/]tcp://223.6.6.6
 [/queniurc.com/]tcp://223.6.6.6
@@ -45676,7 +45685,6 @@
 [/rashost.com/]tcp://223.6.6.6
 [/raspigeek.com/]tcp://223.6.6.6
 [/rastargame.com/]tcp://223.6.6.6
-[/rata-catering.com/]tcp://223.6.6.6
 [/rationmcu.com/]tcp://223.6.6.6
 [/ratuo.com/]tcp://223.6.6.6
 [/ravendb.me/]tcp://223.6.6.6
@@ -45822,7 +45830,6 @@
 [/redisbook.com/]tcp://223.6.6.6
 [/redisfans.com/]tcp://223.6.6.6
 [/redisguide.com/]tcp://223.6.6.6
-[/redisinaction.com/]tcp://223.6.6.6
 [/rednetdns.com/]tcp://223.6.6.6
 [/redocn.com/]tcp://223.6.6.6
 [/redoop.com/]tcp://223.6.6.6
@@ -46234,7 +46241,6 @@
 [/rongdasoft.com/]tcp://223.6.6.6
 [/rongechain.com/]tcp://223.6.6.6
 [/ronghaosk.com/]tcp://223.6.6.6
-[/ronghope.com/]tcp://223.6.6.6
 [/ronghub.com/]tcp://223.6.6.6
 [/ronghuiad.com/]tcp://223.6.6.6
 [/ronghuisign.com/]tcp://223.6.6.6
@@ -46433,7 +46439,6 @@
 [/rubyer.me/]tcp://223.6.6.6
 [/ruchee.com/]tcp://223.6.6.6
 [/ruchu.club/]tcp://223.6.6.6
-[/rudangla.com/]tcp://223.6.6.6
 [/rufei.ren/]tcp://223.6.6.6
 [/rufengso.net/]tcp://223.6.6.6
 [/ruffood.com/]tcp://223.6.6.6
@@ -47424,6 +47429,7 @@
 [/sentaijs.com/]tcp://223.6.6.6
 [/sentcss.com/]tcp://223.6.6.6
 [/sentuxueyuan.com/]tcp://223.6.6.6
+[/sentyeasy.com/]tcp://223.6.6.6
 [/senwas.com/]tcp://223.6.6.6
 [/senyou.com/]tcp://223.6.6.6
 [/senyuanhi.com/]tcp://223.6.6.6
@@ -50449,7 +50455,6 @@
 [/sungoedu.com/]tcp://223.6.6.6
 [/sunguoqi.com/]tcp://223.6.6.6
 [/sunhante.com/]tcp://223.6.6.6
-[/sunhaojie.com/]tcp://223.6.6.6
 [/suninf.net/]tcp://223.6.6.6
 [/suning.com/]tcp://223.6.6.6
 [/suningbank.com/]tcp://223.6.6.6
@@ -51469,6 +51474,7 @@
 [/tao800.com/]tcp://223.6.6.6
 [/tao8090.com/]tcp://223.6.6.6
 [/taoa.com/]tcp://223.6.6.6
+[/taoart.com/]tcp://223.6.6.6
 [/taobao-img.com/]tcp://223.6.6.6
 [/taobao.com/]tcp://223.6.6.6
 [/taobao.global/]tcp://223.6.6.6
@@ -51735,6 +51741,7 @@
 [/tdnsv12.com/]tcp://223.6.6.6
 [/tdnsv2.com/]tcp://223.6.6.6
 [/tdnsv3.com/]tcp://223.6.6.6
+[/tdnsv4.com/]tcp://223.6.6.6
 [/tdnsv5.com/]tcp://223.6.6.6
 [/tdnsv6.com/]tcp://223.6.6.6
 [/tdnsv7.com/]tcp://223.6.6.6
@@ -53605,7 +53612,6 @@
 [/tvnwang.com/]tcp://223.6.6.6
 [/tvoao.com/]tcp://223.6.6.6
 [/tvos.com/]tcp://223.6.6.6
-[/tvscn.com/]tcp://223.6.6.6
 [/tvsou.com/]tcp://223.6.6.6
 [/tvt.im/]tcp://223.6.6.6
 [/tvtsg.com/]tcp://223.6.6.6
@@ -54564,7 +54570,6 @@
 [/v6ok.com/]tcp://223.6.6.6
 [/v6yes.com/]tcp://223.6.6.6
 [/v78q.com/]tcp://223.6.6.6
-[/v86.org/]tcp://223.6.6.6
 [/v8gb.com/]tcp://223.6.6.6
 [/v977.com/]tcp://223.6.6.6
 [/v997.com/]tcp://223.6.6.6
@@ -56239,6 +56244,7 @@
 [/wellphp.com/]tcp://223.6.6.6
 [/wellpie.com/]tcp://223.6.6.6
 [/wellsoon.com/]tcp://223.6.6.6
+[/wellwhales.com/]tcp://223.6.6.6
 [/welove520.com/]tcp://223.6.6.6
 [/welovead.com/]tcp://223.6.6.6
 [/welqua.com/]tcp://223.6.6.6
@@ -58529,6 +58535,7 @@
 [/xiagepian.com/]tcp://223.6.6.6
 [/xiagongdi.com/]tcp://223.6.6.6
 [/xiakeol.com/]tcp://223.6.6.6
+[/xiakexcx.com/]tcp://223.6.6.6
 [/xiald.com/]tcp://223.6.6.6
 [/xialingying.cc/]tcp://223.6.6.6
 [/xialv.com/]tcp://223.6.6.6
@@ -59529,6 +59536,7 @@
 [/xiuxianshipin.com/]tcp://223.6.6.6
 [/xiuxiu.com/]tcp://223.6.6.6
 [/xiuxiustatic.com/]tcp://223.6.6.6
+[/xiuxmanhua.com/]tcp://223.6.6.6
 [/xiuzhan365.com/]tcp://223.6.6.6
 [/xiuzhanwang.com/]tcp://223.6.6.6
 [/xivcdn.com/]tcp://223.6.6.6
@@ -61202,7 +61210,6 @@
 [/ygibao.com/]tcp://223.6.6.6
 [/yginsight.com/]tcp://223.6.6.6
 [/ygjj.com/]tcp://223.6.6.6
-[/ygo.wiki/]tcp://223.6.6.6
 [/ygread.com/]tcp://223.6.6.6
 [/ygsdmedia.com/]tcp://223.6.6.6
 [/ygshoes188.com/]tcp://223.6.6.6
@@ -61962,7 +61969,6 @@
 [/ymatou.hk/]tcp://223.6.6.6
 [/ymbaidu.com/]tcp://223.6.6.6
 [/ymbq301.com/]tcp://223.6.6.6
-[/ymcall.com/]tcp://223.6.6.6
 [/ymcart.com/]tcp://223.6.6.6
 [/ymcart.net/]tcp://223.6.6.6
 [/ymck.pro/]tcp://223.6.6.6
@@ -62064,7 +62070,6 @@
 [/ynzg.org/]tcp://223.6.6.6
 [/ynzp.com/]tcp://223.6.6.6
 [/ynztzxw.com/]tcp://223.6.6.6
-[/ynzxpx.com/]tcp://223.6.6.6
 [/ynzy-tobacco.com/]tcp://223.6.6.6
 [/yo4399.com/]tcp://223.6.6.6
 [/yoagoa.com/]tcp://223.6.6.6
@@ -63265,7 +63270,6 @@
 [/yutong.com/]tcp://223.6.6.6
 [/yutongzyc.com/]tcp://223.6.6.6
 [/yutuwo.com/]tcp://223.6.6.6
-[/yuu1.com/]tcp://223.6.6.6
 [/yuuboo.net/]tcp://223.6.6.6
 [/yuucn.com/]tcp://223.6.6.6
 [/yuudnn.com/]tcp://223.6.6.6
@@ -63646,6 +63650,7 @@
 [/zainanjing365.com/]tcp://223.6.6.6
 [/zaitong.net/]tcp://223.6.6.6
 [/zaiwai.com/]tcp://223.6.6.6
+[/zaiweiwx.com/]tcp://223.6.6.6
 [/zaixian-fanyi.com/]tcp://223.6.6.6
 [/zaixianfanyi.com/]tcp://223.6.6.6
 [/zaixianjianli.com/]tcp://223.6.6.6
