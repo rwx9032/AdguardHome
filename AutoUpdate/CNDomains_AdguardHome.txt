@@ -3179,7 +3179,6 @@
 [/389j.com/]tcp://223.6.6.6
 [/38blog.com/]tcp://223.6.6.6
 [/38ejed.com/]tcp://223.6.6.6
-[/38fan.com/]tcp://223.6.6.6
 [/38hack.com/]tcp://223.6.6.6
 [/38hot.net/]tcp://223.6.6.6
 [/38hp.com/]tcp://223.6.6.6
@@ -8630,6 +8629,7 @@
 [/aliway.com/]tcp://223.6.6.6
 [/aliwd.com/]tcp://223.6.6.6
 [/aliwears.com/]tcp://223.6.6.6
+[/aliwork.com/]tcp://223.6.6.6
 [/aliwx.net/]tcp://223.6.6.6
 [/alixixi.com/]tcp://223.6.6.6
 [/alixox.com/]tcp://223.6.6.6
@@ -22902,6 +22902,8 @@
 [/evzhidao.com/]tcp://223.6.6.6
 [/ew-wirestripping.com/]tcp://223.6.6.6
 [/ew52.com/]tcp://223.6.6.6
+[/ew80.com/]tcp://223.6.6.6
+[/ew80yun.com/]tcp://223.6.6.6
 [/ew9z.com/]tcp://223.6.6.6
 [/ewaga.com/]tcp://223.6.6.6
 [/ewang.com/]tcp://223.6.6.6
@@ -38855,7 +38857,6 @@
 [/lanzoux.com/]tcp://223.6.6.6
 [/lanzouy.com/]tcp://223.6.6.6
 [/lanzun.net/]tcp://223.6.6.6
-[/lanzv.com/]tcp://223.6.6.6
 [/laobaigan-hs.com/]tcp://223.6.6.6
 [/laobandq.com/]tcp://223.6.6.6
 [/laobanfa.com/]tcp://223.6.6.6
@@ -44270,6 +44271,7 @@
 [/myhayo.com/]tcp://223.6.6.6
 [/myhexin.com/]tcp://223.6.6.6
 [/myhithink.com/]tcp://223.6.6.6
+[/myhl-china315.com/]tcp://223.6.6.6
 [/myhomeok.com/]tcp://223.6.6.6
 [/myhongzuan.com/]tcp://223.6.6.6
 [/myhostadmin.net/]tcp://223.6.6.6
@@ -50802,6 +50804,7 @@
 [/rn-hswh.com/]tcp://223.6.6.6
 [/rneok.com/]tcp://223.6.6.6
 [/rnfengwo.com/]tcp://223.6.6.6
+[/rngmoe.com/]tcp://223.6.6.6
 [/rngtest.com/]tcp://223.6.6.6
 [/rnhqxh.com/]tcp://223.6.6.6
 [/rnhy.net/]tcp://223.6.6.6
@@ -56330,6 +56333,7 @@
 [/szldzb.com/]tcp://223.6.6.6
 [/szledia.org/]tcp://223.6.6.6
 [/szleezen.com/]tcp://223.6.6.6
+[/szlgzxyy.com/]tcp://223.6.6.6
 [/szlhtram.com/]tcp://223.6.6.6
 [/szlianya.net/]tcp://223.6.6.6
 [/szlightlink.com/]tcp://223.6.6.6
@@ -58842,7 +58846,6 @@
 [/tugou.com/]tcp://223.6.6.6
 [/tugoucx.com/]tcp://223.6.6.6
 [/tuguaishou.com/]tcp://223.6.6.6
-[/tuhaihe.com/]tcp://223.6.6.6
 [/tuhaokuai.com/]tcp://223.6.6.6
 [/tuhu.com/]tcp://223.6.6.6
 [/tuhu.org/]tcp://223.6.6.6
@@ -64394,6 +64397,7 @@
 [/xhscdn.net/]tcp://223.6.6.6
 [/xhsd.com/]tcp://223.6.6.6
 [/xhslink.com/]tcp://223.6.6.6
+[/xhslw.com/]tcp://223.6.6.6
 [/xhsyqx.com/]tcp://223.6.6.6
 [/xhsyww.com/]tcp://223.6.6.6
 [/xht.com.hk/]tcp://223.6.6.6
@@ -72105,7 +72109,6 @@
 [/zjptcc.com/]tcp://223.6.6.6
 [/zjpubservice.com/]tcp://223.6.6.6
 [/zjqbj.com/]tcp://223.6.6.6
-[/zjqcwx.com/]tcp://223.6.6.6
 [/zjqichuang.com/]tcp://223.6.6.6
 [/zjrc.com/]tcp://223.6.6.6
 [/zjrc.net/]tcp://223.6.6.6
