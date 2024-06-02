@@ -4417,6 +4417,7 @@
 [/52372.com/]tcp://223.6.6.6
 [/523touzi.com/]tcp://223.6.6.6
 [/52419.net/]tcp://223.6.6.6
+[/524399game.com/]tcp://223.6.6.6
 [/52488.com/]tcp://223.6.6.6
 [/525.life/]tcp://223.6.6.6
 [/5251.net/]tcp://223.6.6.6
@@ -16406,6 +16407,7 @@
 [/cloud-links.net/]tcp://223.6.6.6
 [/cloud-neofussvr.sslcs.cdngc.net/]tcp://223.6.6.6
 [/cloud-rtc.com/]tcp://223.6.6.6
+[/cloud-rtc.net/]tcp://223.6.6.6
 [/cloud-scdn-ns.net/]tcp://223.6.6.6
 [/cloud-scdn-ns.tech/]tcp://223.6.6.6
 [/cloud-scdn.com/]tcp://223.6.6.6
@@ -28460,7 +28462,6 @@
 [/haoyouyinxiang.com/]tcp://223.6.6.6
 [/haoyuanfurniture.com/]tcp://223.6.6.6
 [/haoyuanxiao.com/]tcp://223.6.6.6
-[/haoyue.asia/]tcp://223.6.6.6
 [/haoyue28.com/]tcp://223.6.6.6
 [/haoyuepu.com/]tcp://223.6.6.6
 [/haoyun13.com/]tcp://223.6.6.6
@@ -41806,6 +41807,7 @@
 [/magicdata.io/]tcp://223.6.6.6
 [/magich5page.com/]tcp://223.6.6.6
 [/magicleaders.com/]tcp://223.6.6.6
+[/magicneko.com/]tcp://223.6.6.6
 [/magicnetmall.com/]tcp://223.6.6.6
 [/magicspinning.com/]tcp://223.6.6.6
 [/magicwatchface.com/]tcp://223.6.6.6
@@ -68484,7 +68486,6 @@
 [/ym01.tech/]tcp://223.6.6.6
 [/ym1998.com/]tcp://223.6.6.6
 [/ym23.com/]tcp://223.6.6.6
-[/ym68.cc/]tcp://223.6.6.6
 [/ymadly.com/]tcp://223.6.6.6
 [/ymadx.com/]tcp://223.6.6.6
 [/ymailcampaign.com/]tcp://223.6.6.6
