@@ -5418,6 +5418,7 @@
 [/5a8.org/]tcp://223.6.6.6
 [/5aaa.com/]tcp://223.6.6.6
 [/5acbd.com/]tcp://223.6.6.6
+[/5adanci.com/]tcp://223.6.6.6
 [/5adanhao.com/]tcp://223.6.6.6
 [/5ag.net/]tcp://223.6.6.6
 [/5ailiwu.com/]tcp://223.6.6.6
@@ -10124,6 +10125,7 @@
 [/aohuatextiles.com/]tcp://223.6.6.6
 [/aojauto.com/]tcp://223.6.6.6
 [/aojia-oil.com/]tcp://223.6.6.6
+[/aojiahuashare.com/]tcp://223.6.6.6
 [/aojian.net/]tcp://223.6.6.6
 [/aojian2.net/]tcp://223.6.6.6
 [/aojiaostudio.com/]tcp://223.6.6.6
@@ -34448,7 +34450,6 @@
 [/handyfriendship.com/]tcp://223.6.6.6
 [/hanergy.com/]tcp://223.6.6.6
 [/hanergymobileenergy.com/]tcp://223.6.6.6
-[/hanfang8.com/]tcp://223.6.6.6
 [/hanfei.net/]tcp://223.6.6.6
 [/hanfeiyl.com/]tcp://223.6.6.6
 [/hanfengcars.com/]tcp://223.6.6.6
@@ -43069,7 +43070,6 @@
 [/jiningjj.com/]tcp://223.6.6.6
 [/jiniu.work/]tcp://223.6.6.6
 [/jiniutech.com/]tcp://223.6.6.6
-[/jinjianbio.com/]tcp://223.6.6.6
 [/jinjiang-group.com/]tcp://223.6.6.6
 [/jinjiang.com/]tcp://223.6.6.6
 [/jinjianginns.com/]tcp://223.6.6.6
@@ -44246,7 +44246,6 @@
 [/jskjcms.com/]tcp://223.6.6.6
 [/jsklcy.com/]tcp://223.6.6.6
 [/jskpcg.org/]tcp://223.6.6.6
-[/jsks-ya.com/]tcp://223.6.6.6
 [/jskuajing.com/]tcp://223.6.6.6
 [/jskwt.com/]tcp://223.6.6.6
 [/jslcjt.com/]tcp://223.6.6.6
@@ -64641,7 +64640,6 @@
 [/shfq.com/]tcp://223.6.6.6
 [/shfrp.com/]tcp://223.6.6.6
 [/shftth.com/]tcp://223.6.6.6
-[/shfuju.com/]tcp://223.6.6.6
 [/shfxrc.com/]tcp://223.6.6.6
 [/shgao.com/]tcp://223.6.6.6
 [/shgaoxin.net/]tcp://223.6.6.6
@@ -69997,7 +69995,6 @@
 [/tianjin-patek.com/]tcp://223.6.6.6
 [/tianjingames.com/]tcp://223.6.6.6
 [/tianjingrong.com/]tcp://223.6.6.6
-[/tianjinshunma.com/]tcp://223.6.6.6
 [/tianjinwe.com/]tcp://223.6.6.6
 [/tianjinyijiahua.com/]tcp://223.6.6.6
 [/tianjiyy.com/]tcp://223.6.6.6
@@ -80297,6 +80294,7 @@
 [/xueyuhuangjinyan.com/]tcp://223.6.6.6
 [/xuezhangbb.com/]tcp://223.6.6.6
 [/xuezhangya.com/]tcp://223.6.6.6
+[/xuezhao.space/]tcp://223.6.6.6
 [/xuezhishi88.com/]tcp://223.6.6.6
 [/xuezhiyou.com/]tcp://223.6.6.6
 [/xuezhouyi.com/]tcp://223.6.6.6
@@ -85565,6 +85563,7 @@
 [/zgps168.com/]tcp://223.6.6.6
 [/zgpts.com/]tcp://223.6.6.6
 [/zgpy168.com/]tcp://223.6.6.6
+[/zgq.ink/]tcp://223.6.6.6
 [/zgqcdt.com/]tcp://223.6.6.6
 [/zgqczj.com/]tcp://223.6.6.6
 [/zgqkk.com/]tcp://223.6.6.6
