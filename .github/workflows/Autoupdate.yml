@@ -13,10 +13,10 @@ jobs:
     steps:
     - name: checkout actions
       uses: actions/checkout@v1
-    - name: Set up Python 3.7
+    - name: Set up Python 3.11.11
       uses: actions/setup-python@v1
       with:
-        python-version: 3.7
+        python-version: 3.11.11
     - name: Update domain list
       run: |
         cd ./AutoUpdate
