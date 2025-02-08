@@ -8,7 +8,7 @@ on:
       - "main"
 
 jobs:
-  build:
+  update-dns-lists:
     runs-on: ubuntu-latest
     steps:
       - name: checkout actions

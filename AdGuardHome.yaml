@@ -103,7 +103,7 @@ filters:
   id: 1636299944
 - enabled: true
   url: https://easylist-downloads.adblockplus.org/easyprivacy.txt
-  name: EasyList-Privact
+  name: EasyList-Privacy
   id: 1636299945
 - enabled: true
   url: https://www.i-dont-care-about-cookies.eu/abp/

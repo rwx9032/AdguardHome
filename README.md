@@ -1,27 +1,45 @@
-# 我个人使用的Adguardhome配置
+# AdGuardHome 优化配置方案
 
-指定大陆域名给大陆dns 使其返回最近的ip
+一个我个人使用的 AdGuardHome 配置方案，使国内域名使用国内 DNS，获取最佳节点；指定被污染的域名使用境外DNS处理，使其返回正确的ip
 
-指定被污染的域名给境外dns 使其返回正确的ip
+## 快速开始
 
-# 使用方法
+### 方法一：使用完整配置文件
 
-直接在配置文件的 upstream_dns_file 中指定 AdguardHome_Upstreams.txt
+1. 下载 `AdGuardHome.yaml` 到您的 AdGuardHome 目录
+2. 下载上游 DNS 配置文件：
+```bash
+wget -O /root/AdguardHome_Upstreams.txt https://raw.githubusercontent.com/rwx9032/AdguardHome/refs/heads/main/AdguardHome_Upstreams_Autoupdate.txt
+```
+3. 重启 AdGuardHome 服务
+4. **立即更改管理员密码**
 
-也可以直接复制懒人配置 AdGuardHome.yaml 到手动设置里面
+### 方法二：手动配置
 
-然后wget AdguardHome_Upstreams.txt 到 /root 里面（一般就是ssh连上的默认的位置
+1. 在 AdGuardHome 配置中设置 `upstream_dns_file` 指向 `AdguardHome_Upstreams.txt`
+2. 导入 `AdGuardHome.yaml` 中的过滤规则
+3. 重启服务生效
 
-懒人默认配置账号root密码password记得更改
+## 默认配置说明
 
-# 特别感谢
+- 管理界面：
+  - 用户名：root
+  - 密码：password（建议立即修改）
+  - 端口：3001
 
-国内域名列表取自 felixonmars/dnsmasq-china-list
+- DNS 设置：
+  - 监听端口：853
 
-Gfw域名列表取自 gfwlist/gfwlist
+- 广告过滤：
+  - 默认包含 AdGuard DNS filter, AdAway Default Blocklist, MalwareDomainList.com Hosts List, EasyList-CN, EasyList-Privacy, i-dont-care-about-cookies, 乘风-广告规则, 乘风-视频规则 若有失效请自行更新，可以手动添加其他过滤规则
 
-自动更新域名使用了 cokebar/gfwlist2dnsmasq
+## 数据来源
 
-# Feture
+- 国内域名列表：[felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)
+- GFW 域名列表：[gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)
+- 域名更新工具：[cokebar/gfwlist2dnsmasq](https://github.com/cokebar/gfwlist2dnsmasq)
+- 广告过滤规则： 详见 `AdGuardHome.yaml`
 
-重写自动更新域名列表（在咕了
+## 许可证
+
+MIT License
