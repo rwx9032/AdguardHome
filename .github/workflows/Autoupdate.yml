@@ -25,7 +25,7 @@ jobs:
           # Clean up existing files
           rm -f accelerated-domains.china.conf CNDomains_AdguardHome.txt \
               gfwlist.txt gfwlist_decode.txt gfwlist2dnsmasq.sh \
-              gfwlist_dnsmasq.conf gfwlist_AdguardHome.txt config.txt
+              gfwlist_dnsmasq.conf gfwlist_AdguardHome.txt dns_upstream_merged.txt
 
           # Download required source files
           wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
@@ -44,19 +44,19 @@ jobs:
           # Create final configuration file
           {
             echo "Create Date: $(date +"%Y-%m-%d %H:%M:%S")"
-            cat head.txt
+            cat upstreams.txt
             cat gfwlist_AdguardHome.txt
             cat CNDomains_AdguardHome.txt
-          } > config.txt
+          } > dns_upstream_merged.txt
 
           # Copy final configuration to target locations
-          cp config.txt ../AdguardHome_Upstreams_Autoupdate.txt
-          cp config.txt ../AdguardHome_Upstreams_Autoupdate.yaml
+          cp dns_upstream_merged.txt ../AdguardHome_Upstreams_Autoupdate.txt
+          cp dns_upstream_merged.txt ../AdguardHome_Upstreams_Autoupdate.yaml
 
           # Clean up
           rm -f accelerated-domains.china.conf CNDomains_AdguardHome.txt \
               gfwlist.txt gfwlist_decode.txt gfwlist2dnsmasq.sh \
-              gfwlist_dnsmasq.conf gfwlist_AdguardHome.txt config.txt
+              gfwlist_dnsmasq.conf gfwlist_AdguardHome.txt dns_upstream_merged.txt
 
       - name: commit
         env:
