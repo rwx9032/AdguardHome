@@ -11,53 +11,67 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: checkout actions
-      uses: actions/checkout@v1
-    - name: Set up Python 3.11.11
-      uses: actions/setup-python@v1
-      with:
-        python-version: 3.11.11
-    - name: Update domain list
-      run: |
-        cd ./AutoUpdate
-        rm -f accelerated-domains.china.conf
-        rm -f CNDomains_AdguardHome.txt
-        wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
-        rm -f gfwlist.txt
-        rm -f gfwlist_decode.txt
-        wget https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
-        python ChinaDomainlist_AutoUpdate.py
-        python Gfwlist_Decode.py
-        rm -f gfwlist2dnsmasq.sh
-        rm -f gfwlist_dnsmasq.conf
-        wget https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/master/gfwlist2dnsmasq.sh
-        chmod +x gfwlist2dnsmasq.sh
-        sh gfwlist2dnsmasq.sh -o ./gfwlist_dnsmasq.conf
-        rm -f gfwlist_AdguardHome.txt
-        python Gfwlist_AutoUpdate.py
-        rm -f config.txt
-        echo "Create Date:" $(date +"%Y-%m-%d %H:%M:%S") >> config.txt
-        cat head.txt >> config.txt
-        cat gfwlist_AdguardHome.txt >> config.txt
-        cat CNDomains_AdguardHome.txt >> config.txt
-        
-        cd ..
-        cp ./AutoUpdate/config.txt ./AdguardHome_Upstreams_Autoupdate.txt
-        cp ./AutoUpdate/config.txt ./AdguardHome_Upstreams_Autoupdate.yaml
-        
-    - name: commit
-      env:
-        GIT_NAME: github-actions[bot]
-        GIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
-        REPO: github.com/rwx9032/AdguardHome
-        GH_TOKEN: ${{ secrets.GH_TOKEN_BLOG }}
-      run: |
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add .
-        git commit -m "autoupdate" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+      - name: checkout actions
+        uses: actions/checkout@v1
+
+      - name: Set up Python 3.11.11
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.11.11
+
+      - name: Update domain list
+        working-directory: ./AutoUpdate
+        run: |
+          # Clean up existing files
+          rm -f accelerated-domains.china.conf CNDomains_AdguardHome.txt \
+              gfwlist.txt gfwlist_decode.txt gfwlist2dnsmasq.sh \
+              gfwlist_dnsmasq.conf gfwlist_AdguardHome.txt config.txt
+
+          # Download required source files
+          wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
+          wget https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+          wget https://raw.githubusercontent.com/cokebar/gfwlist2dnsmasq/master/gfwlist2dnsmasq.sh
+
+          # Decode gfwlist base64 content
+          base64 -d gfwlist.txt > gfwlist_decode.txt
+
+          # Process domain lists
+          python domain_list_converter.py china accelerated-domains.china.conf
+          chmod +x gfwlist2dnsmasq.sh
+          ./gfwlist2dnsmasq.sh -o ./gfwlist_dnsmasq.conf
+          python domain_list_converter.py gfw gfwlist_dnsmasq.conf
+
+          # Create final configuration file
+          {
+            echo "Create Date: $(date +"%Y-%m-%d %H:%M:%S")"
+            cat head.txt
+            cat gfwlist_AdguardHome.txt
+            cat CNDomains_AdguardHome.txt
+          } > config.txt
+
+          # Copy final configuration to target locations
+          cp config.txt ../AdguardHome_Upstreams_Autoupdate.txt
+          cp config.txt ../AdguardHome_Upstreams_Autoupdate.yaml
+
+          # Clean up
+          rm -f accelerated-domains.china.conf CNDomains_AdguardHome.txt \
+              gfwlist.txt gfwlist_decode.txt gfwlist2dnsmasq.sh \
+              gfwlist_dnsmasq.conf gfwlist_AdguardHome.txt config.txt
+
+      - name: commit
+        env:
+          GIT_NAME: github-actions[bot]
+          GIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          REPO: github.com/rwx9032/AdguardHome
+          GH_TOKEN: ${{ secrets.GH_TOKEN_BLOG }}
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "autoupdate" -a
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
