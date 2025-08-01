@@ -45,6 +45,7 @@ jobs:
           {
             echo "# Create Date: $(date +"%Y-%m-%d %H:%M:%S")"
             cat upstreams.txt
+            echo ""
             cat gfwlist_AdguardHome.txt
             cat CNDomains_AdguardHome.txt
           } > dns_upstream_merged.txt
